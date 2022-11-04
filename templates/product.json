@@ -9,10 +9,7 @@
             "show_vendor": true,
             "show_sku": false,
             "show_product_rating": false,
-            "show_taxes_included": false,
-            "show_meta-days": false,
-            "selector_meta-days": "none",
-            "blackdays__meta-save": ""
+            "show_taxes_included": false
           }
         },
         "variant_selector": {
@@ -34,17 +31,16 @@
         "f4cce94d-6434-4928-a9a9-d142eb3b4702": {
           "type": "product_usp",
           "settings": {
-            "blackdays__returndate": "",
             "usp_autoplay": true,
             "usp_cycle_speed": 3,
             "icon_selector1": "package",
-            "icon_1_heading": "Fri fragt ved køb over 399 kr",
+            "icon_1_heading": "GRATIS VERSAND",
             "icon_selector2": "shipping",
-            "icon_2_heading": "Fri 30 dages retur",
+            "icon_2_heading": "KOSTENLOSES RÜCKGABERECHT",
             "icon_selector3": "cards",
-            "icon_3_heading": "Nem og sikker betaling",
+            "icon_3_heading": "EINFACHE UND SICHERE BEZAHLUNG",
             "icon_selector4": "heart",
-            "icon_4_heading": "Altid til rådighed"
+            "icon_4_heading": "+41 (0) 44 551 01 31"
           }
         },
         "description": {
@@ -60,18 +56,18 @@
             "materials_max_box_size": 50,
             "draggable": true,
             "arrows": true,
-            "materials_image1": "shopify:\/\/shop_images\/SHABES_fabric_lycra_small_81be1bcf-3217-4f90-897e-646931216458.jpg",
+            "materials_image1": "shopify:\/\/shop_images\/Lycra.jpg",
             "materials_1_heading": "LYCRA® SHAPING TECHNOLOGY",
-            "materials_1_text": "<p>Lyder det teknisk? Det er det også! Shaping Technology® er det nyeste materiale udviklet af Lycra® specifikt til shapewear. Materialet er skabt til at give dig en timeglasfigur uden en følelse af ubehag. Udover at opstramme bedre end nogen andre materialer er Lycra® Shaping Technology® også langtidsholdbart og kan strække sig over 100% uden, at det mister sin funktionalitet. Et fantastisk materiale skabt til din fantastiske krop og implementeret i alt shapewear fra Shabes.<\/p>",
-            "materials_image2": "shopify:\/\/shop_images\/shutterstock_1138374116.jpg",
+            "materials_1_text": "<p>Hört sich das technisch an? Ist es auch! Shaping Technology® ist das neueste Material, das von Lycra® speziell für Shapewear entwickelt wurde. Das Material wurde entwickelt, um Ihnen eine wunderschöne Figur zu geben, ohne Sie dabei einzuschränken. Lycra® Shaping Technologie® strafft nicht nur besser als jedes andere Material, sondern ist auch auch langlebig und kann über 100 % ausgedehnt werden, ohne seine Funktionalität zu verlieren. Ein erstaunliches Material, das für Ihren erstaunlichen Körper geschaffen wurde und in allen Shapewear-Produkten von SHABES eingesetzt wird.<\/p>",
+            "materials_image2": "shopify:\/\/shop_images\/Nylon.jpg",
             "materials_2_heading": "NYLON 6.6",
-            "materials_2_text": "<p>Nylon 6.6 er et slidstærkt, åndbart og temperaturregulerende materiale, som vi bruger i alle vores produkter. Materialet har 33% højere slidstyrke end andre nylonformer og sikrer derved, at du kan bruge dit shapewear igen og igen. Bæredygtigt for dig og vores planet. Nylon 6.6 er behageligt på og for huden, da det ikke bliver for varmt at gå med og tillader din hud at trække vejret, imens du bruger det.<\/p>"
+            "materials_2_text": "<p>Nylon 6.6 ist ein haltbares, atmungsaktives und temperaturregulierendes Material, das wir in allen unseren Produkten verwenden. Das Material hat eine um 33% höhere Verschleißfestigkeit als andere Nylonformen und sorgt so dafür, dass Sie Ihre Shapewear wieder und wieder verwenden können. Nachhaltig für Sie und unseren Planeten. Nylon 6.6 ist angenehm auf der Haut, da es nicht zu heiß wird und die Haut beim Tragen atmen kann.<\/p>"
           }
         },
         "0ea1b043-eff1-4e99-946d-d1923fd15e88": {
           "type": "content",
           "settings": {
-            "title": "Materialer",
+            "title": "Materialien",
             "content": "<p>- 30% Lycra® Shaping Technology®<br\/>- 40% Sensil® EcoCare®<br\/>- 30% Nylon<\/p>",
             "page": ""
           }
@@ -79,17 +75,17 @@
         "17147ba3-3eb8-4b38-bf0a-81e6a99fb9a1": {
           "type": "content",
           "settings": {
-            "title": "",
-            "content": "",
-            "page": "baeredygtighed-info"
+            "title": "NACHHALTIGKEIT",
+            "content": "<p>Bei SHABES leben wir nach dem Motto \"Unser Planet und die Menschen vor dem Profit\" und setzen daher den Fokus auf Nachhaltigkeit und eine sozial verantwortliche Produktion.<br\/><br\/>Unsere Materialien, Verpackungen und Produktionsbedingungen werden nach spezifischen Nachhaltigkeitskriterien ausgewählt:<br\/><br\/>- Sozialverträgliche Produktion<br\/><br\/>- Ressourcenverbrauch<br\/><br\/>- Auswirkungen auf die Umwelt<br\/><br\/>- Kohlenstoff-Fußabdruck<br\/><br\/>Lesen Sie mehr darüber, wie SHABES nachhaltig ist, auf der Seite für <a href=\"\/pages\/nachhaltigkeit\" title=\"Nachhaltigkeit\">nachhaltige Shapewear<\/a><\/p>",
+            "page": ""
           }
         },
         "c0ab2312-1a63-481b-98d5-778ca72c7b2a": {
           "type": "content",
           "settings": {
-            "title": "",
-            "content": "",
-            "page": "care"
+            "title": "WASCHANLEITUNG",
+            "content": "<p>Kann Shapewear von SHABES in der Waschmaschine gewaschen werden?<\/p><p>YES! Um Ihre Shapewear jedoch optimal zu pflegen, empfehlen wir Ihnen, sie im Schonwaschgang zu waschen und keinen Weichspüler zu benutzen. Unsere Shapewear wird aus einem ultraformenden Stoff mit starkem Halt hergestellt, der sich über 100% dehnen lässt. Für die Leistungsfähigkeit des Materials ist es wichtig, dass Sie Ihre Shapewear erst benutzen, wenn sie vollständig trocken ist - und gelegentlich ist es auch eine gute Idee, sie einen Tag lang in der Schublade liegen zu lassen, damit sich die Fasern im Material sammeln können. Wenn Sie also zu den Menschen gehören, die ihre Shapewear nicht zu Hause lassen können, empfehlen wir Ihnen, zwei Exemplare des gleichen Produkts zu bestellen.<\/p>",
+            "page": ""
           }
         },
         "b5ea8457-163f-4cc0-9652-0f966b5b6b81": {
@@ -102,6 +98,7 @@
         },
         "cd6e4361-d237-45fa-9aeb-01d0e976786a": {
           "type": "customers_reviews",
+          "disabled": true,
           "settings": {
             "background-color": "#ffffff",
             "autoplay": true,
@@ -111,14 +108,6 @@
             "reviews_title": "Hvad siger vores kunder om os",
             "heading_size": 26,
             "heading_size_mobile": 20
-          }
-        },
-        "aea4f3b9-107f-48e5-a166-29bd91fd25fe": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
-          "settings": {
-            "heading_size": 26,
-            "feed_width": 100,
-            "html_area": ""
           }
         }
       },
@@ -133,8 +122,7 @@
         "17147ba3-3eb8-4b38-bf0a-81e6a99fb9a1",
         "c0ab2312-1a63-481b-98d5-778ca72c7b2a",
         "b5ea8457-163f-4cc0-9652-0f966b5b6b81",
-        "cd6e4361-d237-45fa-9aeb-01d0e976786a",
-        "aea4f3b9-107f-48e5-a166-29bd91fd25fe"
+        "cd6e4361-d237-45fa-9aeb-01d0e976786a"
       ],
       "settings": {
         "image_size": "large",
@@ -144,10 +132,74 @@
         "enable_video_looping": true
       }
     },
+    "1659904917d4ba2bb2": {
+      "type": "featured-video",
+      "settings": {
+        "section_size": "large",
+        "text_color": "#ffffff",
+        "subheading": "",
+        "title": "UNSERE KUNDEN",
+        "image": "shopify:\/\/shop_images\/Screenshot_2022-08-07_at_22.58.09.png",
+        "video_url": "https:\/\/vimeo.com\/737363069"
+      }
+    },
+    "1659904751d1fd50cb": {
+      "type": "customer-testimonials",
+      "blocks": {
+        "165990475102894301-0": {
+          "type": "review",
+          "settings": {
+            "review_heading": "Große Empfehlung für Shabes von hier",
+            "review_richtext": "<p>Extrem weich und passt perfekt zu meinem Körper! Große Empfehlung für Shabes von hier.<\/p>",
+            "review_name": "Zenia Barbara"
+          }
+        },
+        "165990475102894301-1": {
+          "type": "review",
+          "settings": {
+            "review_heading": "Tolle Arbeit Shabes!",
+            "review_richtext": "<p>Man bekommt eine unglaublich schöne Figur von Shabes. Die Produkte stimulieren genau dort, wo sie gebraucht werden. Tolle Arbeit Shabes!<\/p>",
+            "review_name": "Helene Kornum"
+          }
+        },
+        "165990475102894301-2": {
+          "type": "review",
+          "settings": {
+            "review_heading": "Ich empfehle euch!",
+            "review_richtext": "<p>Von allem, was ich bisher ausprobiert habe, ist das hier das Nonplusultra. Shabes verwendet einige erstaunliche Materialien. Ich empfehle euch!<\/p>",
+            "review_name": "Maya Wraae"
+          }
+        },
+        "8386683e-cbb0-4cf1-b526-bd317c581d94": {
+          "type": "review",
+          "settings": {
+            "review_heading": "Die beste Shapewear!",
+            "review_richtext": "<p>Nach einer Schwangerschaft, in der ich zugenommen habe, hat Shabes mir geholfen, mich in etwas anderem als lockerer Kleidung wieder wohl zu fühlen.<\/p>",
+            "review_name": "Simone Baltersen"
+          }
+        }
+      },
+      "block_order": [
+        "165990475102894301-0",
+        "165990475102894301-1",
+        "165990475102894301-2",
+        "8386683e-cbb0-4cf1-b526-bd317c581d94"
+      ],
+      "settings": {
+        "background-color": "#ffffff",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "draggable": true,
+        "arrows": true,
+        "title": "UNSERE KUNDEN LIEBEN UNS",
+        "heading_size": 26,
+        "heading_size_mobile": 15
+      }
+    },
     "16518645113964c1e9": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "Andre kiggede på",
+        "heading": "ANDERE HABEN ANGESEHEN",
         "show_product_info": true,
         "show_vendor": true,
         "show_color_swatch": true
@@ -156,6 +208,8 @@
   },
   "order": [
     "main",
+    "1659904917d4ba2bb2",
+    "1659904751d1fd50cb",
     "16518645113964c1e9"
   ]
 }

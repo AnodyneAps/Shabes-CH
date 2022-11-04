@@ -323,6 +323,13 @@
       "sold_out": "Sold out",
       "on_sale": "On sale"
     },
+    "preorder": {
+      "kindly_note": "Kindly Note",
+      "disclaimer": "Orders made on items not yet available for purchase or which are temporarily out of stock will be charged to your payment card immediately, regardless of when they are ready to ship.",
+      "estimated_delivery": "Estimated Delivery Date",
+      "button": "Pre-order now",
+      "second_disclaimer": "We are still in an unusual situation due to the coronavirus, and this may affect delivery delays from the confirmed order."
+    },
     "slideshow": {
       "zoom": "Zoom",
       "go_to_image": "Show image {{i}}",

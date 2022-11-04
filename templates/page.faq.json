@@ -10,7 +10,7 @@
         "image-alignment-mobile": "center center",
         "image-fixed": false,
         "color-overlay": false,
-        "header": "Vi besvarer alle dine spørgsmål om shapewear",
+        "header": "WIR BEANTWORTEN ALLE IHRE FRAGEN ÜBER SHAPEWEAR",
         "text_color": "#ffffff"
       }
     },
@@ -23,11 +23,11 @@
         "background_img": "none",
         "background": "#ffffff",
         "text_color": "#342e29",
-        "title": "Om shapewear, hvad det gør og hvorfor vi elsker det",
+        "title": "Häufig gestellte Fragen",
         "heading_size": 26,
         "margin_heading": false,
         "heading_size_mobile": 15,
-        "content": "<p>Her lærer du alt, hvad der er værd at vide om shapewear, og hvorfor det kan være en god idé for dig at begynde at bruge det. <br\/>Der er flere forskellige former for shapewear produkter, den mest populære er en Full Body Shaper, som du kan se <a href=\"\/products\/shabes-extended-bodysuit\" title=\"SHABES Extended Bodysuit\">her<\/a>. En Body Shaper er et shapewear produkt, der er designet til at glatte og forme hele din krop fra knæ til barm. <br\/>Andre populære shapewear styles er bl.a. tights og trusser, der er designet til at opstramme og løfte numsen, maven og lårene. Tights og trusser kan du se <a href=\"\/collections\/shabes-eco-collection\" title=\"Shabes Eco Collection\">her<\/a>. <\/p><p>Der er mange fordele ved at bruge shapewear. Overordnet set er shapewear skabt, så du kan føle dig godt tilpas i egen krop ved at udglatte, forme, løfte og opstramme dine naturlige kurver og derved give et fantastisk selvtillidsboost. <br\/>Udover at optimere kroppens naturlige former sidder hvert eneste outfit bare bedre, når du bruger shapewear indenunder. Whats not to like? <\/p><p>Der er flere forskellige brands, der sælger shapewear og hvert mærke har sin egen unikke stil. Shabes blev lanceret, da vi var trætte af, at kvalitet ofte betød alt for høje priser. I stedet tilstræber vi at støtte vores kunder og tilbyde shapewear af højeste kvalitet. Hvis du vil læse mere om os, synes vi, du skal tage et kig <a href=\"\/pages\/om-os\" title=\"Vi vil danne fundamentet for din garderobe\">her<\/a>. <\/p><p>Vi modtager ofte spørgsmål fra kunder. Vi lyttet til jer og vi har nu valgt at lave en side, hvor vi besvarer de mest gængse. Har du et eller flere specifikke spørgsmål, kan du altid kontakte os via vores live chat eller ringe til os, hvor vores online designere sidder klar til at hjælpe.<\/p>",
+        "content": "<p>Hier erfahren Sie alles, was Sie über Shapewear wissen müssen und warum es eine gute Idee sein kann, Shapewear zu verwenden. <\/p><p>Es gibt verschiedene Arten von Shapewear-Produkten. Das beliebteste Produkt ist ein Full Body Shaper, den Sie hier sehen können. Ein Body Shaper ist ein Shapewear-Produkt zur Glättung und Formung des gesamten Körpers vom Knie bis zur Brust. <\/p><p>Andere beliebte Shapewear-Modelle sind Strumpfhosen und Höschen zur Straffung des Gesäßes, des Bauchs und den Oberschenkeln. Strumpfhosen und Höschen können Sie hier sehen. <\/p><p>Die Verwendung von Shapewear hat viele Vorteile. Indem dass Shapewear Ihre natürlichen Kurven glättet, formt, anhebt und strafft, verfolgen wir bei Shabes das Ziel, dass Sie sich in Ihrem eigenen Körper wohlfühlen. Ein Boost an Selbstvertrauen kommt inklusive. <\/p><p>Es gibt verschiedene Marken, die Shapewear anbieten, und jede Marke hat ihren eigenen Stil. SHABES wurde gegründet, weil wir es leid waren, dass Qualität oft mit viel zu hohen Preisen verbunden ist. Stattdessen bemühen wir uns, unsere Kunden zu unterstützen und Shapewear von höchster Qualität zu erschwinglichen Preisen anzubieten. Wenn Sie mehr über uns erfahren möchten, können <a href=\"\/collections\/shabes-eco-kollektion\" title=\"SHABES ECO KOLLEKTION\"><span style=\"text-decoration:underline\">Sie hier schauen<\/span><\/a><span style=\"text-decoration:underline\">.<\/span> <\/p><p>Oft erhalten wir spezifische Fragen von Kunden. Wir haben zugehört und uns entschlossen, eine Seite zu erstellen, auf der wir die am häufigsten gestellten Fragen beantworten. Wenn Sie eine Frage haben, können Sie uns jederzeit über unseren Live-Chat kontaktieren oder uns anrufen. Unsere Online-Designer helfen Ihnen gerne weiter.<\/p>",
         "max_content": true,
         "max_content_size": 513,
         "max_box_size": 148,
@@ -47,120 +47,120 @@
         "89f7d74b-ff71-4862-abe4-5acbe36d7539": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Hvad er shapewear?<\/h2>",
-            "faq-box-richtext": "<p>Hvad er shapewear?<br\/><br\/>Shapewear bliver ofte refereret til som shape undertøj, opstrammende undertøj eller moderne korset til mave og talje. <br\/><br\/>Shapewear er en samlet betegnelse for en bred palette af innovativt undertøj, der former og fremhæver dine naturlige kurver på den helt rigtige måde.<br\/>Shapewear giver dig en slank og smuk silhuet, forbedrer din kropsholdning, holder maven inde, løfter numsen op og glatter alle linjer ud. Resultatet? Uanset hvad, du har på, sidder det helt perfekt.<br\/> <br\/>Shapewear kommer i flere forskellige modeller, primært bodysuits, trusser og tights. På den måde kan du helt selv vælge hvilke områder på din krop, du vil forme og stramme op.<\/p>"
-          }
-        },
-        "6e0dd9b8-319f-4572-9c62-339dcc49fae6": {
-          "type": "faq-accordion",
-          "settings": {
-            "faq-box-title": "<h2>Hvad adskiller SHABES fra andet shapewear?<\/h2>",
-            "faq-box-richtext": "<p>Kvaliteten, komforten og en lækkerhedsfaktor, du ikke finder i andet shapewear på markedet. En lækkerhedsfaktor som vel og mærke både handler om design og god samvittighed.<\/p><p>SHABES er nemlig designet i Danmark og produceret i Europa hvor vi samarbejder med en bæredygtig certificeret producent. Vores kerneværdier er effekt, komfort og bæredygtighed og vi anvender kun de bedste materialer på markedet.<\/p><p>For fuld komfort bruger vi Nylon 6.6, som er en dyrere nylon at fremstille men den behagelige forskel for kroppen og huden gør det hele værd.  Materialet er temperaturregulerende, lader din hud trække været og forbliver køligt imens du bruger vores produkter.<br\/><br\/>Vi specialiserer os i shapewear og ved, at det bedste shapewear du kan eje er det shapewear, du rent faktisk har lyst til at gå med. Derfor skal effekten fra før, du tager det på, til efter du har taget det på være tydelig. For at opnå optimal effekt og funktionalitet i vores shapewear bruger vi Lycra® Shaping Technology. Materialet er en ny elastan udviklet specifikt til shapewear fra Lycra®. Elastanen arbejder aktivt med din krop, strammer ind de rigtige steder og løfter op bagtil. <\/p><p>For bæredygtighed kombineret med komfort bruger vi Sensil® Eco-Care. Materialet reducerer CO2 forbruget med op til 70%, forbruget af vand med op til 80% og sparer op til 55% energi i produktionsfasen. Vi kalder det i al beskedenhed shapewear med respekt for både kvindekroppen og kloden. <br\/><br\/>Shapewear fra Shabes fremhæver dine smukke former bedre end noget andet, og sætter tøjet pænere end da du købte det.<\/p>"
+            "faq-box-title": "Was ist Shapewear?",
+            "faq-box-richtext": "<p>Shapewear ist ein Sammelbegriff für ein breites Spektrum an innovativer Unterwäsche, die Ihre natürlichen Kurven formt und betont. Sie wird oft auch als Shapewear, straffende Unterwäsche oder modernes Korsett für Bauch und Taille bezeichnet.<\/p><p>Shapewear verleiht Ihnen eine schlanke und schöne Silhouette, verbessert Ihre Haltung, strafft den Bauch, hebt das Gesäß und glättet alle Falten. Und das Ergebnis? Was auch immer Sie tragen, es sitzt perfekt. Shapewear gibt es in verschiedenen Modellen, vor allem Bodys, Slips und Strumpfhosen. So können Sie wählen, welche Bereiche Ihres Körpers Sie formen und heben möchten.<\/p>"
           }
         },
         "00bc0ba2-8d8d-41e5-ba1d-7d248688856b": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Hvorfor er moderne shapewear mere behageligt?<\/h2>",
-            "faq-box-richtext": "<p>Det er faktisk ret enkelt. Glem alle associationer til gammeldags “korsetlignende” shapewear, der sidder dårligt og strammer på en ubehagelig måde.<br\/><br\/>Moderne og seamless shapewear som SHABES er udviklet med kvindekroppen og komfort i fokus. Ja, det shaper og former kroppen, løfter numsen op og strammer maven ind, men det er samtidig behageligt at have på og ser lækkert ud. <\/p>"
+            "faq-box-title": "Was unterscheidet SHABES von anderer Shapewear?",
+            "faq-box-richtext": "<p>Qualität, Komfort und Feinheit sind Faktoren, die Sie bei keiner anderen Shapewear auf dem Markt finden werden. SHABES wird in Dänemark entworfen und in Europa hergestellt, wo wir mit einem nachhaltig zertifizierten Hersteller zusammenarbeiten. Unsere Kernwerte sind Effekt, Komfort und Nachhaltigkeit und dazu verwenden wir nur die besten Materialien auf dem Markt. <\/p><p>Für vollen Komfort verwenden wir Nylon 6.6, das in der Herstellung zwar teurer als andere Stoffe ist, aber der Komfortunterschied beim Tragen für Körper und Haut ist es allemal wert. Das Material ist temperaturregulierend und lässt die Haut atmen. <\/p><p>Um eine optimale Wirkung und Funktionalität unserer Shapewear zu erreichen, verwenden wir Lycra® Shaping Technology. Das Material ist ein neues, speziell für Shapewear entwickeltes Elastan aus Lycra®. Es arbeitet aktiv mit Ihrem Körper zusammen, strafft an den richtigen Stellen und hebt den Rücken an.<\/p><p>Für Nachhaltigkeit in Kombination mit Komfort verwenden wir Sensil® Eco-Care. Das Material reduziert in der Produktionsphase den CO2-Verbrauch um bis zu 7%, den Wasserverbrauch um bis zu 80 % und spart bis zu 5% Energie. In aller Bescheidenheit nennen wir es Shapewear die sowohl den weiblichen Körper als auch den Planeten respektiert.<\/p>"
+          }
+        },
+        "6e0dd9b8-319f-4572-9c62-339dcc49fae6": {
+          "type": "faq-accordion",
+          "settings": {
+            "faq-box-title": "Warum ist moderne Shapewear bequemer?",
+            "faq-box-richtext": "<p>Es ist eigentlich ganz einfach. Vergessen Sie alle Assoziationen mit altmodischer \"korsettartiger\" Shapewear, die schlecht sitzt und auf unbequeme Weise spannt. Moderne und nahtlose Shapewear wie SHABES wurde mit Fokus auf den weiblichen Körper und den Tragekomfort entwickelt. Ja, sie formt den Körper, hebt das Gesäß an und strafft den Bauch, aber gleichzeitig ist sie bequem zu tragen und sieht umwerfend aus.<\/p>"
           }
         },
         "ed1cde34-e3fa-4545-9030-24237035fbb8": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Hvordan vælger jeg det rigtige shapewear?<\/h2>",
-            "faq-box-richtext": "<p>Det rigtige shapewear er dét, der passer til dig, din krop og de ønsker, du har til opstramning, korrigering og et løft af bestemte områder på din krop. <br\/><br\/>Når der er sagt, skal du selvfølgelig være opmærksom på materialerne og kvaliteten af det shapewear, du vælger. Det har nemlig stor betydning for både komfort og holdbarhed. <br\/><br\/>Er det første gang, du prøver shapewear anbefaler vi, at du starter med enten vores højtaljede <a href=\"\/products\/shabes-high-cut-trusse\" title=\"SHABES g-streng trusse\">SHABES High-Cut Trusse<\/a> eller <a href=\"\/products\/shabes-mid-thigh-tights\" title=\"SHABES Mid-Thigh Tights\">SHABES Mid-Thigh Tights<\/a> som begge giver dig en rigtig fin effekt på mave og numse og er velegnede til alt slags brug. Ønsker du en mere all-round shapingeffekt, kan vi anbefale dig vores <a href=\"\/products\/shabes-extended-bodysuit\" title=\"SHABES Extended Bodysuit\">SHABES Extended Bodysuit<\/a>.<\/p>"
+            "faq-box-title": "Wie wähle ich die passende Shapewear?",
+            "faq-box-richtext": "<p>Die richtige Shapewear ist das, was zu Ihnen, Ihrem Körper und Ihren Wünschen nach Straffung, Korrektur und Lifting bestimmter Körperpartien passt. Achten Sie natürlich auf die Materialien und die Qualität der Shapewear, die Sie wählen, um sowohl Komfort als auch Haltbarkeit zu gewährleisten. <\/p><p>Wenn Sie zum ersten Mal Shapewear ausprobieren, empfehlen wir Ihnen, mit unseren <a href=\"\/products\/shabes-g-string-thong\" title=\"SHABES G-string panties\">SHABES High-Cut Panties<\/a> mit hoher Taille oder unseren <a href=\"\/products\/shabes-mid-thigh-tights\" title=\"SHABES Mid-Thigh Tights\">SHABES Mid-Thigh Tights<\/a> zu beginnen, die beide einen sehr schönen Effekt auf Bauch und Po haben und für alle Arten von Anwendungen geeignet sind. Wenn Sie einen rundum formenden Effekt wünschen, empfehlen wir Ihnen unseren <a href=\"\/products\/shabes-extended-bodysuit\" title=\"SHABES Extended Bodysuit\">SHABES Extended Bodysuit<\/a>.<\/p>"
           }
         },
         "559901df-1820-41d7-a66e-4debd51874e4": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Hvad for noget shapewear er bedst til maven, taljen, numsen eller lårene?<\/h2>",
-            "faq-box-richtext": "<p>Her er en lille guide med afsæt i vores kollektion. Her har vi nemlig taget højde for lige præcis mave, talje, numse og lår.<br\/><br\/><strong>Maven<\/strong> først. Her får du optimal effekt med vores <a href=\"\/products\/shabes-high-cut-trusse\" title=\"SHABES g-streng trusse\">SHABES High-Cut Trusse<\/a> som nænsomt former og opstrammer netop maven. Er du mere til tights, kan du også vælge vores <a href=\"\/products\/shabes-mid-thigh-tights\" title=\"SHABES Mid-Thigh Tights\">SHABES Mid-Thigh Tights<\/a> som har samme gode effekt på kroppen og holder maven inde.<br\/><br\/>Når det gælder <strong>taljen<\/strong>, vil vores smukke <a href=\"\/products\/shabes-high-cut-bodysuit\" title=\"SHABES High-Cut Bodysuit\">SHABES High-Cut Bodysuit<\/a> være et godt valg. Den fremhæver din talje på smukkeste vis og giver dig den feminine og forføreriske timeglasfigur, som mange drømmer om. <br\/><br\/><strong>Drømmenumsen <\/strong>får du med vores <a href=\"\/products\/shabes-mid-thigh-tights\" title=\"SHABES Mid-Thigh Tights\">SHABES Mid-Thigh Tights<\/a> som løfter og toner numsen. Det sømløse design sørger for, at overgangen fra tights til lår og mave fremstår flot og ensartet.<br\/><br\/>Hvem vil ikke gerne stramme sin lår op og have <strong>labre lårbasser<\/strong>? Det får du i den grad med enten vores <a href=\"\/products\/shabes-extended-tights\" title=\"SHABES Extended Tights\">SHABES Extended Tights<\/a> eller <a href=\"\/products\/shabes-extended-bodysuit\" title=\"SHABES Extended Bodysuit\">Extended Bodysuit<\/a> som giver dig flotte og tonede lår.<\/p>"
+            "faq-box-title": "Welche Art von Shapewear ist am Besten für Bauch, Hüfte, Po und Oberschenkel?",
+            "faq-box-richtext": "<p>Hier ist ein kleiner Leitfaden, der auf unserer Kollektion basiert: <\/p><p>Bauch zuerst. Hier erzielen Sie einen optimalen Effekt mit unserer <a href=\"\/products\/shabes-g-string-thong\" title=\"SHABES G-string panties\">SHABES High-Cut Panty<\/a>, die den Bauch sanft formt und strafft. Wenn Sie Strumpfhosen besser mögen, können Sie auch unsere <a href=\"\/products\/shabes-mid-thigh-tights\" title=\"SHABES Mid-Thigh Tights\">SHABES Mid-Thigh Tights<\/a> wählen, die den gleichen Effekt auf den Körper haben, mit zusätzlichem Effekt auf den Bauch. <\/p><p>Wenn es um die Taille geht, ist unser schöner <a href=\"\/products\/shabes-high-cut-thong-bodysuit\" title=\"SHABES High-Cut Panties Bodysuit\">SHABES High-Cut Bodysuit <\/a>eine gute Wahl. Dieser betont Ihre Taille auf die beste Art und Weise und verleiht Ihnen die feminine und verführerische Sihlouette, von der viele träumen. <\/p><p>Den perfekten Po bekommen Sie mit unserer <a href=\"\/products\/shabes-mid-thigh-tights\" title=\"SHABES Mid-Thigh Tights\">SHABES Mid-Thigh Tights<\/a>, die das Gesäß anheben und straffen. Das nahtlose Design sorgt dafür, dass der Übergang von der Strumpfhose zu den Oberschenkeln und dem Bauch schön und gleichmäßig aussieht. <\/p><p>Wer würde seine Oberschenkel nicht gerne straffen? Unsere SHABES <a href=\"\/products\/shabes-extended-tights\" title=\"SHABES Extended Tights\">Extended Tights<\/a> oder unser <a href=\"\/products\/shabes-extended-bodysuit\" title=\"SHABES Extended Bodysuit\">Extended Bodysuit<\/a> verleihen Ihnen schöne und straffe Oberschenkel.<\/p>"
           }
         },
         "1f6a7638-e7f2-4e74-973e-fe8417324ef4": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Hvad for noget shapewear er bedst til allround effekt?<\/h2>",
-            "faq-box-richtext": "<p>Vi elsker jo alle vores styles! Men skal vi absolut vælge én, der virkelig gør det godt hele vejen rundt, må det være vores <a href=\"\/products\/shabes-extended-bodysuit\" title=\"SHABES Extended Bodysuit\">SHABES Extended Bodysuit<\/a>. <\/p><p>Den giver dig maksimal opstrammende effekt ved at holde maven og taljen inde, løfte numse op og strammer lårene ind.<\/p>"
+            "faq-box-title": "Welche Art von Shapewear ist am besten für einen Rundum-Effekt?",
+            "faq-box-richtext": "<p>Wir lieben alle unsere Modelle! Aber wenn wir uns für eines davon entscheiden müssen, welches wirklich rundum gut ist, dann wäre es unser <a href=\"\/products\/shabes-extended-bodysuit\" title=\"SHABES Extended Bodysuit\">SHABES Extended Bodysuit<\/a>.<\/p><p>Dieses Modell sorgt für einen maximalen Straffungseffekt, indem es Bauch und Taille strafft, das Gesäß anhebt und die Oberschenkel strafft.<\/p>"
           }
         },
         "f00cf487-8717-4ed3-b741-d7d4261e5196": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Passer shapewear til alle kropstyper?<\/h2>",
-            "faq-box-richtext": "<p>Helt sikkert. Høj. Lav. Buttet. Slank. Store eller små bryster. Shapewear kan bruges af alle, og alle vil opleve gavn af den udglattende, opstrammende og tonende effekt, det giver.<\/p>"
+            "faq-box-title": "Eignet sich Shapewear für alle Körpertypen?",
+            "faq-box-richtext": "<p>Eindeutig! Egal ob groß, klein, rundlich, schlank, große oder kleine Brüste. Shapewear kann von jeder Person getragen werden, und jede Person wird von der glättenden, straffenden und festigenden Wirkung profitieren.<\/p>"
           }
         },
         "13d15b39-cd3b-4dc0-8243-ebb1f5509191": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Skal jeg gå en størrelse ned med shapewear for bedre effekt?<\/h2>",
-            "faq-box-richtext": "<p>Nej. Som udgangspunkt skal du vælge din normale størrelse. Shapewear skal være behageligt at have på, og du får den bedste og flotteste effekt, hvis du er tro mod din størrelse. En god tommelfingerregel er, at hvis det efterlader mærker på din hud, er det for stramt. Vi anbefaler, at du følger vores shapewear størrelsesguide. <\/p>"
+            "faq-box-title": "Sollte ich bei Shapewear eine kleinere Grösse wählen?",
+            "faq-box-richtext": "<p>Nein. Grundsätzlich sollten Sie Ihre normale Größe wählen. Shapewear sollte bequem sein, und Sie erzielen den besten und schönsten Effekt, wenn Sie Ihre Größe beibehalten. Eine gute Faustregel lautet: Wenn Ihre Shapewear Abdrücke auf der Haut hinterlässt, ist sie zu eng. Wir empfehlen Ihnen, sich an unserer Größentabelle für Shapewear zu orientieren.<\/p>"
           }
         },
         "421d23da-54da-4d97-887d-9380f6d207fd": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Kan jeg sove i shapewear?<\/h2>",
-            "faq-box-richtext": "<p>Nej, der er ingen grund til at sove i shapewear. Selvom vores shapewear er så komfortabelt, at du helt sikkert godt kunne. Det kan være sundt at give din krop en pause fra den opstrammende effekt.<\/p>"
+            "faq-box-title": "Kann ich in meiner Shapewear schlafen?",
+            "faq-box-richtext": "<p>Nein, es ist nicht nötig, in Shapewear zu schlafen. Obwohl unsere Shapewear so bequem ist, dass Sie das sicher tun könnten, kann es gesund sein, Ihrem Körper eine Pause von der straffenden Wirkung zu gönnen.<\/p>"
           }
         },
         "b829df98-4b88-481c-bd78-c678e8d26d9d": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Hvad for noget shapewear skal jeg vælge til mit outfit?<\/h2>",
-            "faq-box-richtext": "<p>Der er ikke noget helt enkelt svar på netop det spørgsmål. Vi kan godt give nogle vejledende eksempler, men eftersom alle kroppe er forskellige, må du prøve dig frem for at finde ud af, hvad netop du synes fungerer bedst til dig og din garderobe.<\/p><p>Men altså, her kommer et par eksempler…<\/p><p><strong>De stramme jeans:<\/strong> Et godt bud her er vores tights - enten <a href=\"\/products\/shabes-mid-thigh-tights\" title=\"SHABES Mid-Thigh Tights\">Mid-Thigh<\/a> eller <a href=\"\/products\/shabes-extended-tights\" title=\"SHABES Extended Tights\">Extended<\/a>, som både toner og opstrammer lårene og holder maven inde. <\/p><p><strong>De pæne bukser:<\/strong> Her kan du vælge at gå med både vores <a href=\"\/products\/shabes-high-cut-trusse\" title=\"SHABES g-streng trusse\">højtaljede trusse<\/a> og tights afhængig af, om du ønsker løft og shaping alene af numse og mave eller også vil mærke effekten på dine lår.<\/p><p><strong>Den tætsiddende kjole:<\/strong> Der er to gode valg her. Enten vores højtaljede <a href=\"\/products\/shabes-high-cut-bodysuit\" title=\"SHABES High-Cut Bodysuit\">SHABES High-Cut Bodysuit<\/a>, som strammer ind i taljen, løfter numsen, holder maven ind og giver en fin timeglasfigur ELLER vores <a href=\"\/products\/shabes-extended-bodysuit\" title=\"SHABES Extended Bodysuit\">SHABES  Extended Bodysuit<\/a>, som giver dig samme effekt inklusiv toning af lårene der bliver strammet ind.<\/p>"
+            "faq-box-title": "Welche Art von Shapewear trage ich mit welchem Outfit?",
+            "faq-box-richtext": "<p>Auf diese Frage gibt es keine einfache Antwort. Wir können einige Hinweise geben, aber da jeder Körper anders ist, müssen Sie selbst herausfinden, was für Sie und Ihre Garderobe am besten geeignet ist. Hier sind ein paar Beispiele: <\/p><p><strong>Die enge Jeans:<\/strong> Eine gute Wahl sind hier unsere Strumpfhosen - entweder <a href=\"\/products\/shabes-mid-thigh-tights\" title=\"SHABES Mid-Thigh Tights\">Mid-Thigh<\/a> oder <a href=\"\/products\/shabes-extended-tights\" title=\"SHABES Extended Tights\">Extended<\/a> - die sowohl die Oberschenkel straffen als auch den Bauch flach halten. <\/p><p><strong>Die schöne Hose:<\/strong> Hier können Sie sowohl unsere <a href=\"\/products\/shabes-g-string-thong\" title=\"SHABES G-string panties\">High-Waisted-Slips<\/a> als auch unsere Strumpfhosen wählen, je nachdem, ob Sie nur den Po und den Bauch straffen und formen oder auch den Effekt an den Oberschenkeln spüren wollen. <\/p><p><strong>Das eng anliegende Kleid:<\/strong> Hier gibt es zwei gute Möglichkeiten: entweder unseren hoch taillierten <a href=\"\/products\/shabes-high-cut-thong-bodysuit\" title=\"SHABES High-Cut Panties Bodysuit\">SHABES High-Cut Bodysuit<\/a>, der die Taille strafft, den Po anhebt, den Bauch festhält und eine schöne Silhouette verleiht, oder unseren <a href=\"\/products\/shabes-extended-bodysuit\" title=\"SHABES Extended Bodysuit\">SHABES Extended Bodysuit<\/a>, der den gleichen Effekt und zusätzlich eine Straffung der Oberschenkel bewirkt.<\/p>"
           }
         },
         "acdeda70-e286-4df6-bafa-34bc99f9c058": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Skal man bruge undertøj under shapewear?<\/h2>",
-            "faq-box-richtext": "<p>Nogle mener, at man skal og andre mener, at det ikke hører til. <br\/>Hvis man spørger os er svaret nej, shapewear erstatter dit almindelige undertøj og er præcis lige så hygiejnisk at bære. Ønsker du i perioder ekstra beskyttelse - fx når du menstruerer, kan du dog godt tage en trusse under. Du skal dog være opmærksom på, at det kan forringe shaping effekten og derfor ikke altid er optimalt.<\/p>"
+            "faq-box-title": "Sollte ich Unterwäsche unter Shapwear tragen?",
+            "faq-box-richtext": "<p>Manche glauben, dass man das tun sollte, andere sagen, dass man es nicht tun sollte. <\/p><p>Wenn Sie uns fragen, lautet die Antwort: Shapewear ersetzt Ihre normale Unterwäsche und ist genauso hygienisch. Wenn Sie zu bestimmten Zeiten - zum Beispiel während der Menstruation - einen zusätzlichen Schutz wünschen, können Sie einen Slip darunter tragen. Sie sollten sich jedoch bewusst sein, dass dies die formende Wirkung beeinträchtigen kann und daher nicht immer optimal ist.<\/p>"
           }
         },
         "1e221121-9956-4585-90bb-01e580039d5f": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Kan jeg gå på toilettet med shapewear på?<\/h2>",
-            "faq-box-richtext": "<p>Ja, men du skal være indstillet på, at det nok er lidt mere omstændigt. Hos Shabes har vi nemlig valgt at gå med maksimal effekt i vores shapewear, og derfor vil du opleve, at det kræver lidt ekstra at få det på og af. Hvis man ønsker justerbare stropper, som gør det lettere at få af og på, skal man vælge vores produkter fra kollektionen Shabes Your Everyday.<\/p>"
+            "faq-box-title": "Kann ich mit Shapewear auf die Toilette gehen?",
+            "faq-box-richtext": "<p>Ja, aber Sie müssen sich darauf einstellen, dass es wahrscheinlich ein bisschen aufwändiger ist. Wir von SHABES haben uns bei unserer Shapewear für einen maximalen Effekt entschieden, und deshalb werden Sie feststellen, dass es ein wenig mehr braucht, um unsere Shapewear an- und auszuziehen. Wenn Sie verstellbare Träger wünschen, die das Anziehen erleichtern, wählen Sie unsere Produkte aus der SHABES Your Everyday-Kollektion.<\/p>"
           }
         },
         "082907d2-a862-45ba-b8d4-a3aa94118d94": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Kan man vaske shapewear i vaskemaskinen?<\/h2>",
-            "faq-box-richtext": "<p>Ja! Men for at passe bedst muligt på dit shapewear, anbefaler vi, at du bruger et skånsomt vaskeprogram og undlader at bruge skyllemiddel.<\/p><p>Vores shapewear består af et ultraformende stof med kraftigt hold, som kan strække sig over 100%. Af hensyn til ydelsen af materialet, er det derfor vigtigt, at du ikke anvender dit shapewear før, det er helt tørt.<\/p><p>Så er du en af dem, der bare ikke kan lade dit shapewear ligge derhjemme, anbefaler vi, at du køber to sæt. <\/p>"
+            "faq-box-title": "Kann ich Shapewear in der Maschine waschen?",
+            "faq-box-richtext": "<p>Ja! Um Ihre Shapewear jedoch bestmöglich zu pflegen, empfehlen wir Ihnen, sie im Schonwaschgang zu waschen und auf Weichspüler zu verzichten. <\/p><p>Unsere Shapewear besteht aus einem stark-formenden Stoff mit starkem Halt, der sich über 100% ausdehnen kann. Für die Leistungsfähigkeit des Materials ist es daher wichtig, dass Sie Ihre Shapewear erst tragen, wenn sie vollständig getrocknet ist. <\/p><p>Wenn Sie zu den Menschen gehören, die ihre Shapewear nicht zu Hause lassen können, empfehlen wir Ihnen, zwei Sets zu bestellen.<\/p>"
           }
         },
         "95f7f5ef-6139-4c1b-81ab-eccd3f80391c": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Kan jeg bruge shapewear hver dag?<\/h2>",
-            "faq-box-richtext": "<p>Ja, der er i princippet ikke noget til hinder for at bruge shapewear hver dag. Vores shapewear er nemlig så komfortabelt og stretchy, at det slet ingen skade gør.<\/p><p>Alligevel anbefaler vi ikke, at du bruger shapewear hver eneste dag. Ligesom med så meget andet, har din krop nemlig brug for variation, og selvom vores shapewear er behageligt at have på, er det en god idé at give kroppen en pause i ny og næ.<\/p>"
+            "faq-box-title": "Kann ich meine Shapewear täglich nutzen?",
+            "faq-box-richtext": "<p>Es spricht nichts dagegen, Shapewear jeden Tag zu tragen, aber wie bei so vielem anderen braucht Ihr Körper Abwechslung, und obwohl unsere Shapewear bequem zu tragen und sicher für den täglichen Gebrauch ist, ist es eine gute Idee, Ihrem Körper hin und wieder eine Pause zu gönnen.<\/p>"
           }
         },
         "c7721fe8-41e1-485f-9153-76590f5cbd29": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Hvor mange penge skal jeg bruge på shapewear?<\/h2>",
-            "faq-box-richtext": "<p>Som med så meget andet her i livet, får du som regel, hvad du betaler for. Når det er sagt, behøver du bestemt ikke bruge en formue for at få lækkert og funktionelt shapewear.<\/p><p>Vi har brugt to år på at designe og konstruere det perfekte shapewear til en pris, hvor alle kan være med. Vores produkter ligger i et spænd mellem 300-900 kroner.<\/p>"
+            "faq-box-title": "Wie viel sollte ich für Shapewear ausgeben?",
+            "faq-box-richtext": "<p>Wie bei so vielen Dingen im Leben gilt auch hier, dass man in der Regel das bekommt, wofür man bezahlt. Das heißt, Sie müssen kein Vermögen ausgeben, um elegante und funktionelle Shapewear zu bekommen. <\/p><p>Wir haben zwei Jahre damit verbracht, die perfekte Shapewear zu einem Preis zu entwickeln, der für jeden geeignet ist. Unsere Produkte liegen zwischen 39 CHF und 129 CHF.<\/p>"
           }
         },
         "cd445ca0-659e-4e3c-8805-4cba2220842c": {
           "type": "faq-accordion",
           "settings": {
-            "faq-box-title": "<h2>Kan jeg bruge shapewear, når jeg har menstruation?<\/h2>",
-            "faq-box-richtext": "<p>Ja, det kan du sagtens. Faktisk mener flere, at den lette kompression som shapewear giver, kan lette menstruationssmerter. Det er dog en god idé at benytte en almindelig trusse under dit shapewear, hvis du vil være sikker på at undgå pletter.<\/p>"
+            "faq-box-title": "Kann ich Shapewear während der Menstruation tragen?",
+            "faq-box-richtext": "<p>Ja, das können Sie. Viele glauben sogar, dass die leichte Kompression, die Shapewear bietet, Menstruationsbeschwerden lindern kann. Es ist jedoch eine gute Idee, ein normales Höschen unter der Shapewear zu tragen, wenn Sie sicher sein wollen, dass keine Flecken entstehen.<\/p>"
           }
         }
       },
       "block_order": [
         "89f7d74b-ff71-4862-abe4-5acbe36d7539",
-        "6e0dd9b8-319f-4572-9c62-339dcc49fae6",
         "00bc0ba2-8d8d-41e5-ba1d-7d248688856b",
+        "6e0dd9b8-319f-4572-9c62-339dcc49fae6",
         "ed1cde34-e3fa-4545-9030-24237035fbb8",
         "559901df-1820-41d7-a66e-4debd51874e4",
         "1f6a7638-e7f2-4e74-973e-fe8417324ef4",

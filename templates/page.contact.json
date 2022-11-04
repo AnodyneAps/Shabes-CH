@@ -3,14 +3,14 @@
     "1633371596a7c8aa4f": {
       "type": "page-header",
       "settings": {
-        "imageDesktop": "shopify:\/\/shop_images\/58682.jpg",
+        "imageDesktop": "shopify:\/\/shop_images\/58522.jpg",
         "hide_desktop": true,
         "image-alignment": "center center",
-        "imageMobile": "shopify:\/\/shop_images\/58682.jpg",
+        "imageMobile": "shopify:\/\/shop_images\/58522.jpg",
         "image-alignment-mobile": "center center",
         "image-fixed": false,
         "color-overlay": true,
-        "header": "Effektivt og komfortabelt shapewear",
+        "header": "EFFEKTIVE UND KOMFORTABLE SHAPEWEEAR",
         "text_color": "#ffffff"
       }
     },
@@ -23,11 +23,12 @@
         "background_img": "none",
         "background": "#ffffff",
         "text_color": "#342e29",
-        "title": "Om os",
+        "title": "ÜBER UNS",
+        "h1": false,
         "heading_size": 26,
         "margin_heading": false,
         "heading_size_mobile": 22,
-        "content": "<p>Hos Shabes tror vi på, at det bedste shapewear er det shapewear, du rent faktisk bruger. Shapewear du altid har liggende i øverste skuffe fordi, at du ved hvad det gør for dig og dit outfit. Hos Shabes skaber vi luksuriøst shapewear, og fundamentet for alle vores produkter er effekt, komfort og bæredygtighed. Vi mener, at alle har ret til at føle sig komfortable i egen krop og derfor laver vi shapewear af høj kvalitet til retfærdige priser.<\/p>",
+        "content": "<p>Wir von SHABES sind der Meinung, dass die beste Shapewear die ist, die Sie auch wirklich benutzen. Also Shapewear, die immer zuoberst in der Schublade liegt, weil Sie wissen, was diese für Sie und Ihr Outfit leistet. Bei SHABES kreieren wir luxuriöse Shapewear. Die Grundlage für alle unsere Produkte sind Effekt, Komfort und Nachhaltigkeit. Wir glauben, dass alle die Möglichkeit haben sollen, sich im eigenen Körper wohlzufühlen, weshalb wir Shapewear von höchster Qualität herstellen.<\/p>",
         "max_content": false,
         "max_content_size": 50,
         "max_box_size": 50,
@@ -46,10 +47,11 @@
             "collection": "",
             "image": "shopify:\/\/shop_images\/58522.jpg",
             "image_alignment": "center center",
+            "image_mobile": "shopify:\/\/shop_images\/58522.jpg",
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "Om os",
-            "richtext": "<p>Hos Shabes tror vi på, at det bedste shapewear er det shapewear, du rent faktisk bruger. Shapewear du altid har liggende i øverste skuffe, fordi du ved hvad det gør for dig og dit outfit. Hos Shabes skaber vi luksuriøst shapewear, og fundamentet for alle vores produkter er effekt, komfort og bæredygtighed. Vi mener, at alle har ret til at føle sig komfortable i egen krop og derfor laver vi shapewear af højeste kvalitet.<\/p>",
+            "title": "ÜBER UNS",
+            "richtext": "<p>Wir von SHABES sind der Meinung, dass die beste Shapewear die ist, die Sie auch wirklich benutzen. Also Shapewear, die immer zuoberst in der Schublade liegt, weil Sie wissen, was diese für Sie und Ihr Outfit leistet. Bei SHABES kreieren wir luxuriöse Shapewear. Die Grundlage für alle unsere Produkte sind Effekt, Komfort und Nachhaltigkeit. Wir glauben, dass alle die Möglichkeit haben sollen, sich im eigenen Körper wohlzufühlen, weshalb wir Shapewear von höchster Qualität herstellen.<\/p>",
             "button_text": "",
             "button_link": "",
             "apply_overlay": true,
@@ -67,6 +69,7 @@
             "collection": "",
             "image": "shopify:\/\/shop_images\/58682.jpg",
             "image_alignment": "center center",
+            "image_mobile": "shopify:\/\/shop_images\/58682.jpg",
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
@@ -111,11 +114,12 @@
         "background_img": "none",
         "background": "#ffffff",
         "text_color": "#1c1b1b",
-        "title": "VORES VISION",
+        "title": "UNSERE VISION",
+        "h1": false,
         "heading_size": 26,
         "margin_heading": false,
         "heading_size_mobile": 20,
-        "content": "<p>SHABES er et dansk brand med en klar mission: Vi vil være de bedste til at formgive kvindekroppen med komfortabelt og luksuriøst shapewear lavet af de bedste og mest innovative materialer i modebranchen. Vores DNA består af en vision om et shapewear brand, der gør op med den endeløse søgen efter shapewear der virker, er behageligt og passer lige netop din kropstype.<\/p>",
+        "content": "<p>SHABES ist eine dänische Marke mit einer klaren Mission: Wir wollen die Besten sein, wenn es darum geht, den weiblichen Körper mit komfortabler und luxuriöser Shapewear zu formen. Unsere Produkte entstehen aus den besten und innovativsten Materialien der Modeindustrie. Unsere DNA besteht aus der Vision einer Shapewear Marke, welche der endlosen Suche nach Shapewear, die funktioniert, bequem ist und genau zu Ihrem Körpertyp passt, ein Ende bereitet.<\/p>",
         "max_content": false,
         "max_content_size": 10,
         "max_box_size": 30,
@@ -128,10 +132,10 @@
       "settings": {
         "height": false,
         "subheading": "",
-        "title": "VORES REJSE MOD RESTEN AF VERDEN",
-        "image": "shopify:\/\/shop_images\/VA97648.jpg",
+        "title": "UNSERE REISE IN DEN REST DER WELT",
+        "image": "shopify:\/\/shop_images\/97648.jpg",
         "image_position": "right",
-        "content": "<p>Shabes er drevet af et passioneret team, som arbejder hårdt for vores fælles mål om at lave fantastisk shapewear til rimelige priser. Vores dygtige designere og konstruktører elsker håndarbejdet og at nørkle med detaljerne for altid at skabe de bedste resulter, og vores marketingteam elsker at fortælle historien. Vi er stolte af, hvor langt vi er kommet, og at vores fælles indsats allerede er repræsenteret i fire lande.<\/p>",
+        "content": "<p>SHABES wird von einem leidenschaftlichen Team geführt, das hart für unser gemeinsames Ziel arbeitet, fantastische Shapewear zu vernünftigen Preisen herzustellen. Unsere qualifizierten Designer und Designerinnen lieben die Handwerkskunst und das Tüfteln an den Details, um die besten Ergebnisse zu erzielen. Unser Marketingteam liebt es, unsere Geschichte zu erzählen. Wir sind stolz darauf, wie weit wir gekommen sind und dass wir dank unseren gemeinsamen Anstrengungen bereits in mehreren Ländern vertreten sind.<\/p>",
         "text_align": "center",
         "heading_size": 26,
         "sub_heading_size": 20,
@@ -155,15 +159,15 @@
             "hide_mobile": false,
             "hide_link": false,
             "collection": "",
-            "image": "shopify:\/\/shop_images\/SHABES_fabric_lycra_small_81be1bcf-3217-4f90-897e-646931216458.jpg",
+            "image": "shopify:\/\/shop_images\/Lycra.jpg",
             "image_alignment": "center center",
-            "image_mobile": "shopify:\/\/shop_images\/SHABES_fabric_lycra_small_81be1bcf-3217-4f90-897e-646931216458.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Lycra.jpg",
             "content_position": "middleCenter",
             "subheading": "",
-            "title": "KUNSTEN I MATERIALET",
-            "richtext": "<p>Vi brugte over to år på at source de helt rigtige materialer til vores shapewear. Materialerne skulle være komfortable og effektive for kroppens former og bæredygtige for dig og vores planet. Resultatet af tiden vi brugte, er nogle af verdens fineste materialer fra modebranchen, som giver vores shapewear sit æstetiske og tidsløse design. Du kan læse mere om materialerne her.<\/p>",
-            "button_text": "Læs mere",
-            "button_link": "shopify:\/\/pages\/baeredygtighed-info",
+            "title": "DIE KUNST DES MATERIALS",
+            "richtext": "<p>Wir haben über zwei Jahre damit verbracht, die perfekten Materialien für unsere Shapewear zu finden. Die Materialien sollten bequem und effektiv für Ihre Körperform und nachhaltig für unseren Planeten sein. Das Ergebnis unserer Bemühungen sind einige der weltweit besten Materialien aus der Modeindustrie, die unserer Shapewear ihr ästhetisches und zeitloses Design verleihen.<\/p>",
+            "button_text": "LESEN SIE MEHR",
+            "button_link": "shopify:\/\/pages\/nachhaltigkeit",
             "apply_overlay": true,
             "apply_overlay_extra": false,
             "add_logo": false,
@@ -216,10 +220,10 @@
       "settings": {
         "height": false,
         "subheading": "",
-        "title": "VORES PRODUKTION",
-        "image": "shopify:\/\/shop_images\/97817_2daaba56-bd27-459a-a816-106fe328e41e.jpg",
+        "title": "UNSERE NACHHALTIGE PRODUKTION",
+        "image": "shopify:\/\/shop_images\/97817.jpg",
         "image_position": "left",
-        "content": "<p>I Shabes arbejder vi målrettet på at gøre vores materialer, produktion og logistik så klimaneutral og bæredygtig som muligt. Vi tager skarpt afstand til greenwashing, og fortæller i stedet åbent og ærligt om vores initiativer og mål. Vi designer vores shapewear i Danmark, og producerer under ordnede forhold i Europa - bl.a. fra vedvarende energikilder som dækker op til 80% af vores produktionsforbrug. Vi arbejder også aktivt med FN’s verdensmål, som er kontinuerligt arbejde, men er hele arbejdet værd. Det betyder nemlig, at du kan købe Shabes med grøn samvittighed.<\/p>",
+        "content": "<p>Wir bei SHABES arbeiten zielgerichtet daran, unsere Materialien, Produktion und Logistik so klimaneutral und nachhaltig wie möglich zu gestalten. Wir distanzieren uns ausdrücklich von Greenwashing und berichten stattdessen offen und ehrlich über unsere Initiativen und Ziele. Wir entwerfen unsere Shapewear in Dänemark und produzieren unter geordneten Bedingungen in Europa - u.a. aus erneuerbaren Energiequellen, die bis zu 80% unseres Produktionsverbrauchs decken. Wir arbeiten auch aktiv mit den Weltzielen der UN zusammen. Dies bedeutet für uns kontinuierliche Arbeit, aber Arbeit, die es wert ist und auf die wir stolz sind. Nur so können Sie SHABES mit einem grünen Gewissen benutzen.<\/p>",
         "text_align": "center",
         "heading_size": 32,
         "sub_heading_size": 20,
@@ -245,6 +249,7 @@
         "background": "#fafafa",
         "text_color": "#1c1b1b",
         "title": "”THE BEST SHAPEWEAR, IS THE SHAPEWEAR YOU WILL ACTUALLY WEAR”",
+        "h1": false,
         "heading_size": 26,
         "margin_heading": false,
         "heading_size_mobile": 15,
@@ -262,33 +267,33 @@
         "16331060443ad848d5-0": {
           "type": "review",
           "settings": {
-            "review_heading": "Ekstremt blødt",
-            "review_richtext": "<p>Ekstremt blødt og passer perfekt på min krop! Stor anbefaling til Shabes herfra. <\/p>",
+            "review_heading": "Große Empfehlung für Shabes von hier",
+            "review_richtext": "<p>Extrem weich und passt perfekt zu meinem Körper! Große Empfehlung für Shabes von hier.<\/p>",
             "review_name": "Zenia barbara"
           }
         },
         "16331060443ad848d5-1": {
           "type": "review",
           "settings": {
-            "review_heading": "Jeg er meget imponeret",
-            "review_richtext": "<p>Jeg er meget imponeret. Det er på ingen måder ubehageligt, men strammer alligevel op alle de steder jeg vil have.<\/p>",
-            "review_name": "Sanne Skifter"
+            "review_heading": "Tolle Arbeit Shabes!",
+            "review_richtext": "<p>Man bekommt eine unglaublich schöne Figur von Shabes. Die Produkte stimulieren genau dort, wo sie gebraucht werden. Tolle Arbeit Shabes!<\/p>",
+            "review_name": "Helene Kornum"
           }
         },
         "16331060443ad848d5-2": {
           "type": "review",
           "settings": {
-            "review_heading": "Flot arbejde Shabes",
-            "review_richtext": "<p>Du får en utrolig flot figur af Shabes.<br\/>Produkterne stimulerer lige der hvor de skal. Flot arbejde Shabes! <\/p>",
-            "review_name": "Helene Kornum"
+            "review_heading": "Ich empfehle euch!",
+            "review_richtext": "<p>Von allem, was ich bisher ausprobiert habe, ist das hier das Nonplusultra. Shabes verwendet einige erstaunliche Materialien. Ich empfehle euch!<\/p>",
+            "review_name": "Maya Wraae"
           }
         },
         "bffeaf43-001d-4b33-a9b9-1ab47b0ae50a": {
           "type": "review",
           "settings": {
-            "review_heading": "Toppen af poppen",
-            "review_richtext": "<p>Af alt jeg har prøvet, er det her toppen af poppen. I bruger nogle fantastiske materialer. Jeg anbefaler jer! <\/p>",
-            "review_name": "Maya Wraae"
+            "review_heading": "Die beste Shapewear!",
+            "review_richtext": "<p>Nach einer Schwangerschaft, in der ich zugenommen habe, hat Shabes mir geholfen, mich in etwas anderem als lockerer Kleidung wieder wohl zu fühlen.<\/p>",
+            "review_name": "Simone Baltersen"
           }
         }
       },
@@ -304,7 +309,7 @@
         "cycle_speed": 5,
         "draggable": true,
         "arrows": true,
-        "title": "Vores kunder elsker os",
+        "title": "UNSERE KUNDEN LIEBEN UNS",
         "heading_size": 26,
         "heading_size_mobile": 20
       }

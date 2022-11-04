@@ -6,15 +6,15 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4224A.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/4224A_cut.jpg",
-            "image_position": "center center",
-            "apply_overlay": false,
-            "content_position": "middleCenter",
-            "subheading": "",
-            "title": "Shop vores nye kollektion nu",
-            "button_1_text": "Shop nu",
-            "button_1_link": "shopify:\/\/collections\/alt-shapewear",
+            "image": "shopify:\/\/shop_images\/56924.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/56911.jpg",
+            "image_position": "top center",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "KOMFORTABLE UND HOCHWERTIGE SHAPEWEAR DESIGNED IN DÄNEMARK",
+            "title": "SEI DEIN BESTES SELBST MIT SHABES",
+            "button_1_text": "JETZT BESTELLEN",
+            "button_1_link": "shopify:\/\/collections\/alle-shapewear-produkte",
             "button_2_text": "",
             "button_2_link": ""
           }
@@ -25,17 +25,16 @@
       ],
       "settings": {
         "show_fullscreen": true,
-        "show_arrow": true,
+        "show_arrow": false,
         "autoplay": true,
         "cycle_speed": 5,
-        "heading_size": 62,
-        "sub_heading_size": 52,
+        "heading_size": 38,
+        "sub_heading_size": 18,
         "text_color": "#ffffff",
         "button_color": "#342e29",
         "button_background": "#ffffff",
         "button_color_hover": "#ffffff",
-        "button_background_hover": "rgba(0,0,0,0)",
-        "svg_selector": "none"
+        "button_background_hover": "rgba(0,0,0,0)"
       }
     },
     "163276763442e7599e": {
@@ -47,15 +46,15 @@
         "background_img": "none",
         "background": "#ffffff",
         "text_color": "#1c1b1b",
-        "title": "HVORFOR VÆLGE SHAPEWEAR FRA SHABES",
-        "h1": true,
+        "title": "WARUM SHAPEWEAR VON SHABES WÄHLEN?",
+        "h1": false,
         "heading_size": 26,
         "margin_heading": false,
         "heading_size_mobile": 22,
-        "content": "<p>Hos Shabes skaber vi luksuriøst shapewear, og fundamentet for alle vores produkter er effekt, komfort og bæredygtighed. Vi mener, at alle skal have mulighed for at føle sig komfortable i egen krop, og derfor laver vi shapewear af højeste kvalitet, der fremhæver kroppens naturlige former og er behageligt at have på hele dagen.<\/p>",
-        "max_content": false,
-        "max_content_size": 50,
-        "max_box_size": 50,
+        "content": "<p>Wir von SHABES kreieren luxuriöse Shapewear. Die wichtigste Grundlage für alle unsere Produkte sind Effekt, Komfort und Nachhaltigkeit. Wir glauben, dass alle die Möglichkeit haben sollen, sich im eigenen Körper wohlzufühlen, weshalb wir Shapewear von höchster Qualität herstellen.<\/p>",
+        "max_content": true,
+        "max_content_size": 152,
+        "max_box_size": 51,
         "button_label": "",
         "button_link": ""
       }
@@ -67,10 +66,10 @@
           "type": "collection",
           "settings": {
             "collection": "bestsellers",
-            "title": "",
+            "title": "BESTSELLERS",
             "text_box": "",
-            "grid_items_count": 4,
-            "button_text": "Shop her"
+            "grid_items_count": 5,
+            "button_text": "Mehr Sehen"
           }
         }
       },
@@ -80,19 +79,16 @@
       "settings": {
         "title": "",
         "heading_size": 32,
-        "margin_heading": false,
-        "heading_size_mobile": 22,
+        "margin_heading": true,
+        "heading_size_mobile": 30,
         "background-color": "#fafafa",
         "background_img": "none",
-        "layout_mode": "grid",
+        "layout_mode": "carousel",
         "show_product_info": true,
         "show_vendor": false,
         "show_color_swatch": true,
         "grid_mobile_items_per_row": "2",
-        "grid_desktop_items_per_row": 4,
-        "show_product-days": false,
-        "selector_product-days": "none",
-        "blackdays__save": ""
+        "grid_desktop_items_per_row": 4
       }
     },
     "1632827034e58962e0": {
@@ -106,13 +102,13 @@
             "collection": "",
             "image": "shopify:\/\/shop_images\/97723AA.jpg",
             "image_alignment": "top center",
-            "image_mobile": "shopify:\/\/shop_images\/97723AA.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/97723AA_666b5adf-f506-495e-a5c5-946c534a54b0.jpg",
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "Mød shabes",
+            "title": "Über uns",
             "richtext": "",
-            "button_text": "Læs mere",
-            "button_link": "shopify:\/\/pages\/om-os",
+            "button_text": "Weiterlesen",
+            "button_link": "shopify:\/\/pages\/uber-uns",
             "apply_overlay": true,
             "apply_overlay_extra": false,
             "add_logo": false,
@@ -128,12 +124,13 @@
             "collection": "",
             "image": "shopify:\/\/shop_images\/97648.jpg",
             "image_alignment": "top center",
+            "image_mobile": "shopify:\/\/shop_images\/97648.jpg",
             "content_position": "bottomLeft",
             "subheading": "",
-            "title": "Lær om shapewear",
+            "title": "Häufig gestellte Fragen",
             "richtext": "",
-            "button_text": "Om shapewear",
-            "button_link": "shopify:\/\/pages\/alt-om-shapewear",
+            "button_text": "Weiterlesen",
+            "button_link": "shopify:\/\/pages\/faq",
             "apply_overlay": true,
             "apply_overlay_extra": false,
             "add_logo": false,
@@ -169,32 +166,32 @@
         "144b1d98-8251-4d58-b0fb-dd33fd99eee7": {
           "type": "review",
           "settings": {
-            "review_heading": "Føler mig rigtig godt tilpas",
-            "review_richtext": "<p>Det er et FANTASTIK LÆKKERT at have på og derfor føler jeg mig rigtig godt tilpas. SUPER SUPER SUPER godt produkt<\/p>",
+            "review_heading": "SUPER SUPER SUPER gutes Produkt",
+            "review_richtext": "<p>Es gibt ein FANTASTISCHES GEFÜHL zu tragen und ich fühle mich damit sehr wohl. SUPER SUPER SUPER gutes Produkt<\/p>",
             "review_name": "Pernille Krause"
           }
         },
         "c49bb351-a46d-4c17-8654-d9b8d003f729": {
           "type": "review",
           "settings": {
-            "review_heading": "Helt vild med Shabes!",
-            "review_richtext": "<p>Jeg er helt vild med jeres Shabes! Modtog dem i går inden min mors fødselsdag og havde dem på i 12 timer straight.<\/p>",
+            "review_heading": "Ich liebe eure Shabes absolut!",
+            "review_richtext": "<p>Ich liebe eure Shabes absolut! Ich habe sie gestern vor dem Geburtstag meiner Mutter erhalten und habe sie 12 Stunden am Stück getragen.<\/p>",
             "review_name": "Trine Dahl Nielsen"
           }
         },
         "be0ad830-3c6d-4c03-a52c-c59a4613c18c": {
           "type": "review",
           "settings": {
-            "review_heading": "Det bedste shapewear jeg har prøvet",
-            "review_richtext": "<p>Det bedste shapewear til dato! Jeg elsker kvaliteten, bevægeligheden og at det strammer ind lige hvor det skal. Føles som silke!<\/p>",
+            "review_heading": "Die beste Shapewear bis jetzt!",
+            "review_richtext": "<p>Die beste Shapewear bis jetzt! Ich liebe die Qualität, die Beweglichkeit und dass sie genau da spannt, wo sie muss. Fühlt sich an wie Seide!<\/p>",
             "review_name": "Karina Nordbo"
           }
         },
         "ef63d32b-e2a8-4b2e-b2cc-f3f4221cc533": {
           "type": "review",
           "settings": {
-            "review_heading": "Det bedste shapewear jeg har prøvet",
-            "review_richtext": "<p>Virkelig fedt produkt. Det bedste shapewear jeg har prøvet! Vildt behageligt at have på og samtidig gør det lige hvad det skal.<\/p>",
+            "review_heading": "Ein wirklich tolles Produkt",
+            "review_richtext": "<p>Ein wirklich tolles Produkt. Die beste Shapewear, die ich ausprobiert habe! Unheimlich angenehm zu tragen und gleichzeitig tut es genau das, was es tun soll.<\/p>",
             "review_name": "Lis Bjerre"
           }
         }
@@ -211,7 +208,7 @@
         "cycle_speed": 3.5,
         "draggable": true,
         "arrows": true,
-        "title": "Læs hvad vores kunder siger om os",
+        "title": "Das sagen unsere kunden über shabes",
         "heading_size": 30,
         "heading_size_mobile": 20
       }
@@ -225,8 +222,8 @@
             "icon_selector": "reason-1",
             "icon-color": "#d8beac",
             "icon_size": 200,
-            "icon_heading": "Shapewear med maksimal løfteeffekt!",
-            "icon_text": "<p>Vores opstrammende materialer kombineret med konstruktionen i vores shapewear sikrer dig, at numsen altid sidder som den skal, at maven og lårene altid glattes ud, en timeglasfigur og et smil på læben. Vi har 100% tilfredshedsgaranti.<br\/><\/p>"
+            "icon_heading": "MAXIMALER STRAFFUNGSEFFEKT!",
+            "icon_text": "<p>Unsere straffenden Materialien in Kombination mit der Konstruktion unserer Shapewear sorgen dafür, dass das Gesäß immer so sitzt, wie es soll und dass auch Bauch und Oberschenkel immer geglättet sind. So erstrahlt der Körper in einer Traumfigur, immer mit einem Lächeln auf den Lippen. Wir geben eine 100% Zufriedenheitsgarantie.<\/p>"
           }
         },
         "15433c83-8f6c-44d7-9aa5-060ca001e328": {
@@ -235,8 +232,8 @@
             "icon_selector": "reason-2",
             "icon-color": "#d8beac",
             "icon_size": 200,
-            "icon_heading": "Behageligt hele dagen",
-            "icon_text": "<p>Vores bløde og behagelige materialer får dig helt til at glemme, at du har vores shapewear på. Vi mener, at det bedste shapewear er det shapewear, som du har lyst til at gå med. Når du handler hos Shabes, har vi dig og din krop i fokus. Husk vi har fri retur!<\/p>"
+            "icon_heading": "KOMFORT DEN GANZEN TAG!",
+            "icon_text": "<p>Unsere weichen und bequemen Materialien lassen Sie völlig vergessen, dass Sie unsere Shapewear tragen. Wir glauben, dass die beste Shapewear diejenige ist, mit der Sie sich wohlfühlen. Wenn Sie bei Shabes einkaufen, stehen Sie und Ihr Körper im Mittelpunkt. Denken Sie daran, dass wir eine kostenlose Rückgabe anbieten!<\/p>"
           }
         },
         "0765ab58-1be7-4aaf-b855-134acdb351d7": {
@@ -245,8 +242,8 @@
             "icon_selector": "reason-4",
             "icon-color": "#d8beac",
             "icon_size": 150,
-            "icon_heading": "Venlig og professionel kundeservice!",
-            "icon_text": "<p>For at give dig den bedste oplevelse er vores designere altid online og klar til at rådgive dig om vores shapewear fra 10-16 hver dag. Det er ikke altid nemt at vælge det rigtige shapewear, og derfor er det vigtigt for os, at du føler, at du får den nødvendige vejledning. <\/p>"
+            "icon_heading": "FREUNDLICHER UND PROFESSIONELLER KUNDENSERVICE!",
+            "icon_text": "<p>Um Ihnen die beste Erfahrung zu bieten, sind unsere Designer stets online und bereit, Sie jeden Tag von 09-18 Uhr zu beraten. Es ist nicht immer einfach, die richtige Shapewear zu finden. Deshalb ist es uns wichtig, dass Sie eine optimale Beratung erhalten.<\/p>"
           }
         }
       },
@@ -257,14 +254,14 @@
       ],
       "settings": {
         "background-color": "#ffffff",
-        "max_content": true,
+        "max_content": false,
         "max_content_size": 50,
-        "max_box_size": 54,
+        "max_box_size": 50,
         "autoplay": false,
         "cycle_speed": 5,
         "draggable": true,
         "arrows": true,
-        "title": "Tre grunde til at vælge shabes",
+        "title": "DREI GRÜNDE, SICH FÜR SHABES ZU ENTSCHEIDEN",
         "heading_size": 32,
         "heading_size_mobile": 22
       }
@@ -278,15 +275,14 @@
             "hide_mobile": false,
             "hide_link": false,
             "collection": "",
-            "image": "shopify:\/\/shop_images\/95227AA.jpg",
+            "image": "shopify:\/\/shop_images\/95227AA_be3601cd-a811-46c1-b437-09dd5b9eff1f.jpg",
             "image_alignment": "top center",
-            "image_mobile": "shopify:\/\/shop_images\/95137.jpg",
             "content_position": "bottomCenter",
             "subheading": "",
-            "title": "Et bæredygtigt brand",
+            "title": "Eine nachhaltige Marke mit Kernwerten",
             "richtext": "",
-            "button_text": "Læs mere",
-            "button_link": "shopify:\/\/pages\/baeredygtigt-shapewear",
+            "button_text": "Weiterlesen",
+            "button_link": "shopify:\/\/pages\/nachhaltigkeit",
             "apply_overlay": true,
             "apply_overlay_extra": false,
             "add_logo": true,
@@ -324,12 +320,12 @@
         "background_img": "none",
         "background": "#ffffff",
         "text_color": "#1c1b1b",
-        "title": "Shop tidløst Shapewear",
+        "title": "Zeitlos Einkaufen",
         "h1": false,
         "heading_size": 30,
         "margin_heading": false,
         "heading_size_mobile": 20,
-        "content": "<p>Vi er et tidløst brand, der brænder for at fuldføre og perfektionere hvert enkelt produkt. Når du køber shapewear fra Shabes, fjerner vi dine bekymringer om fremtidens trends og giver dig i stedet luksuriøst shapewear, der er komfortabelt og af højeste kvalitet. Vores shapewear kollektion består af forskelligt shapewear undertøj, heriblandt <a href=\"\/collections\/shapewear-thong\" title=\"Shapewear trusser\"><span style=\"text-decoration:underline\">shapewear trusser<\/span><\/a>, <a href=\"\/collections\/shapewear-shorts\" title=\"Shapewear Shorts\"><span style=\"text-decoration:underline\">shapewear shorts<\/span><\/a> og <a href=\"\/collections\/shapewear-bodysuit\" title=\"Shapewear bodysuit\"><span style=\"text-decoration:underline\">shapewear bodysuits<\/span><\/a>, som alt sammen har en høj opstrammende effekt og er komfortabelt at have på hele dagen.<\/p>",
+        "content": "<p>Wir sind eine zeitlose Marke, die sich darauf fokussiert, jedes einzelne Produkt zu vervollständigen und zu perfektionieren. Wenn Sie ein Produkt von Shabes kaufen, nehmen wir Ihnen Sorgen über zukünftige Trends und geben Ihnen stattdessen luxuriöse Shapewear gefüllt mit Qualität.<\/p>",
         "max_content": false,
         "max_content_size": 50,
         "max_box_size": 50,

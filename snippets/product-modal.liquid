@@ -1,0 +1,28 @@
+<div id="js-preorder-popup-modal" class="preorder-popup-modal">
+    <div class="preorder-popup-modal-content">
+        <div class="pre-modal-header">
+            <span class="preorder-close js-preorder-close">
+                <svg class="Icon Icon--close" role="presentation" viewBox="0 0 16 14"><path d="M15 0L1 14m14 0L1 0" stroke="currentColor" fill="none" fill-rule="evenodd"></path></svg>
+            </span>
+            <h3 class="SectionHeader__Heading Heading u-h1">
+                {{ 'product.preorder.kindly_note' | t }}
+            </h3>
+        </div>
+        <div class="pre-modal-body mb-3">
+            <span>{{ 'product.preorder.disclaimer' | t }}</span><br><br>
+            <span class="modal_date Heading">
+              {{ 'product.preorder.estimated_delivery' | t }}
+                <span id="js-preorder-popup-delivery">
+                  {{ product.selected_or_first_available_variant.next_incoming_date | date: "%e %B %Y" }}
+                </span>
+            </span>
+        </div>
+        <div class="pre-modal-footer">
+
+            <button type="submit" data-use-primary-button="true" class="js-add-to-cart ProductForm__AddToCart-2 Button Button--primary Button--full" data-action="add-to-cart">
+                        <span>{%- render 'icon' with 'cart' -%} {{ 'product.preorder.button' | t }}</span>
+            </button><br>
+            <span>{{ 'product.preorder.second_disclaimer' | t }}</span>
+        </div>
+    </div>
+</div> 

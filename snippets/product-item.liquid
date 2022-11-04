@@ -78,6 +78,7 @@
           <span class="ProductItem__Label Heading Text--subdued">{{ product.metafields.my_fields.product_label }}</span>
         </div>
       {% endif %}
+
       {% if section.settings.show_product-days == true %}
         {%- if section.settings.selector_product-days != 'none' -%}
         <span class="days__badge--{{ section.settings.selector_product-days }}">
@@ -89,6 +90,7 @@
         {%- endif -%}
         {% endif %}
       {% endif %}
+      
       {% if product.metafields.my_fields.shaping_level %}
         <div class="ProductItem__LabelList ProductItem__LabelList_shaping">
           <span class="ProductItem__Label spaping_level_label Heading Text--subdued">

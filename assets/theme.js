@@ -2440,11 +2440,15 @@
        * Update the add to cart
        */
 
-    }, {
+    }, 
+       {
       key: "_updateAddToCartButton",
       value: function _updateAddToCartButton(newVariant) {
         var addToCartButton = this.element.querySelector('.ProductForm__AddToCart'),
-            shopifyPaymentButton = this.element.querySelector('.shopify-payment-button');
+            shopifyPaymentButton = this.element.querySelector('.shopify-payment-button'),
+            variantInventory = newVariant ? this.variantsInventories[newVariant['id']] : null,
+            preoderButton = this.element.querySelector('.js-preorderButton'),
+            addCartName = this.element.querySelector('.add-cart-name'); 
 
         if (addToCartButton) {
           addToCartButton.classList.remove('Button--secondary');
@@ -2455,22 +2459,80 @@
             addToCartButton.removeAttribute('data-action');
             addToCartButton.classList.add('Button--secondary');
             addToCartButton.innerHTML = window.languages.productFormUnavailable;
-          } else {
+            if (variantInventory['inventory_policy'] === 'continue' && variantInventory['inventory_quantity'] <= 0 && variantInventory['inventory_incoming']){              
+                 if (variantInventory['inventory_quantity'] < variantInventory['inventory_incoming_quantity']){
+                  addToCartButton.setAttribute('disabled', 'disabled');
+                  addToCartButton.classList.add('Button--secondary');
+                             addToCartButton.classList.remove('Button--primary');
+                  addToCartButton.removeAttribute('data-action');
+                  addToCartButton.innerHTML = window.languages.productFormSoldOut;
+                  preoderButton.classList.add('hide-preorder-button');
+                  addToCartButton.classList.remove('hide-addToCart-button');
+                 } else {
+                 preoderButton.classList.remove('hide-preorder-button');
+                 addToCartButton.classList.add('hide-addToCart-button');
+                 document.getElementById("js-preorder-popup-delivery").innerHTML = variantInventory['inventory_incoming_date'];
+                 }                 
+            } else {
+                 preoderButton.classList.add('hide-preorder-button');
+                 addToCartButton.classList.remove('hide-addToCart-button');
+               }
+      } else {
             if (newVariant['available']) {
               addToCartButton.removeAttribute('disabled');
               addToCartButton.classList.add(addToCartButton.getAttribute('data-use-primary-button') === 'true' ? 'Button--primary' : 'Button--secondary');
               addToCartButton.setAttribute('data-action', 'add-to-cart');
-
+              if (variantInventory['inventory_policy'] === 'continue' && variantInventory['inventory_quantity'] <= 0 && variantInventory['inventory_incoming']){              
+                 if (variantInventory['inventory_quantity'] < variantInventory['inventory_incoming_quantity']){
+                  addToCartButton.setAttribute('disabled', 'disabled');
+                  addToCartButton.classList.remove('Button--primary');
+                  addToCartButton.classList.add('Button--secondary');
+                  addToCartButton.removeAttribute('data-action');
+                  addToCartButton.innerHTML = window.languages.productFormSoldOut;
+                  preoderButton.classList.add('hide-preorder-button');
+                  addToCartButton.classList.remove('hide-addToCart-button');
+                 } else {
+                 preoderButton.classList.remove('hide-preorder-button');
+                 addToCartButton.classList.add('hide-addToCart-button');
+                 document.getElementById("js-preorder-popup-delivery").innerHTML = variantInventory['inventory_incoming_date'];
+                 }                 
+            } else {
+                 preoderButton.classList.add('hide-preorder-button');
+                 addToCartButton.classList.remove('hide-addToCart-button');
+               }
               if (undefined === this.options['showPriceInButton'] || this.options['showPriceInButton']) {
                 addToCartButton.innerHTML = "\n            <span>".concat(window.languages.productFormAddToCart, "</span>\n            <span class=\"Button__SeparatorDot\"></span>\n            <span data-money-convertible>").concat(Currency.formatMoney(newVariant['price'], window.theme.moneyFormat), "</span>\n          ");
               } else {
-                addToCartButton.innerHTML = "<span>".concat(window.languages.productFormAddToCart, "</span>");
+                if(variantInventory['inventory_policy'] === 'continue' && variantInventory['inventory_quantity'] <= 0 && variantInventory['inventory_incoming']){
+                  console.log('Test');
+                } else {
+                  addToCartButton.innerHTML = "<span>".concat(window.languages.productFormAddToCart, "</span>");
+                }
               }
             } else {
               addToCartButton.setAttribute('disabled', 'disabled');
               addToCartButton.classList.add('Button--secondary');
+              addToCartButton.classList.remove('Button--primary');
               addToCartButton.removeAttribute('data-action');
               addToCartButton.innerHTML = window.languages.productFormSoldOut;
+               if (variantInventory['inventory_policy'] === 'continue' && variantInventory['inventory_quantity'] <= 0 && variantInventory['inventory_incoming']){              
+                 if (variantInventory['inventory_quantity'] < variantInventory['inventory_incoming_quantity']){
+                  addToCartButton.setAttribute('disabled', 'disabled');
+                             addToCartButton.classList.remove('Button--primary');
+                  addToCartButton.classList.add('Button--secondary');
+                  addToCartButton.removeAttribute('data-action');
+                  addToCartButton.innerHTML = window.languages.productFormSoldOut;
+                  preoderButton.classList.add('hide-preorder-button');
+                  addToCartButton.classList.remove('hide-addToCart-button');
+                 } else {
+                 preoderButton.classList.remove('hide-preorder-button');
+                 addToCartButton.classList.add('hide-addToCart-button');
+                 document.getElementById("js-preorder-popup-delivery").innerHTML = variantInventory['inventory_incoming_date'];
+                 }                 
+            } else {
+                 preoderButton.classList.add('hide-preorder-button');
+                 addToCartButton.classList.remove('hide-addToCart-button');
+               }
             }
           }
         }
@@ -5741,7 +5803,7 @@
               productInfoPadding = parseInt(productInfoStyles.paddingTop) + parseInt(productInfoStyles.paddingBottom),
               productGalleryHeight = this.productGalleryElement ? parseInt(this.productGalleryElement.scrollHeight) : 0; // 2nd: making sure to set up enough space in aside part
 
-          /*
+
           var calculateMinHeight = function calculateMinHeight() {
             if (_this4.productAsideElement) {
               _this4.productAsideElement.style.minHeight = "".concat(_this4.productInfoElement.scrollHeight - productInfoPadding - productGalleryHeight, "px");
@@ -5749,7 +5811,7 @@
             } else {
               _this4.productWrapperElement.style.minHeight = "".concat(_this4.productInfoElement.scrollHeight - parseInt(productInfoStyles.paddingTop), "px");
             }
-          };*/ª
+          };
 
           calculateMinHeight(); // This code actually works well, but if a merchant is using an app that dynamically adds content (such as ReCharge or any other widget-based app), this
           // will mess the min height. There is a clean solution to this issue, which is by using ResizeObserver. However it's only supported in Chrome for now,

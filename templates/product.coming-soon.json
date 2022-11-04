@@ -15,8 +15,6 @@
         "22ef6b0b-2a60-4477-9d3e-d6f922f92a88": {
           "type": "product_usp",
           "settings": {
-            "usp_autoplay": true,
-            "usp_cycle_speed": 5,
             "icon_selector1": "package",
             "icon_1_heading": "",
             "icon_selector2": "package",
@@ -36,27 +34,13 @@
           "type": "share_buttons",
           "settings": {
           }
-        },
-        "8c6cd37a-e353-4432-9d3d-9e5657499d7d": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_price_in_button": false,
-            "show_payment_button": true
-          }
-        },
-        "3e121270-9275-4a7b-99c9-5369938163b6": {
-          "type": "store_pickup",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "product_meta",
         "22ef6b0b-2a60-4477-9d3e-d6f922f92a88",
         "description",
-        "share_buttons",
-        "8c6cd37a-e353-4432-9d3d-9e5657499d7d",
-        "3e121270-9275-4a7b-99c9-5369938163b6"
+        "share_buttons"
       ],
       "settings": {
         "image_size": "large",

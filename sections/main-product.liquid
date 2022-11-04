@@ -67,15 +67,15 @@
 </div>
 
 {% if blackdays == 'blackdays' %}
-<div class="blackdays__banner">
-  {% render 'icon' with 'blackdays' %}<span class="text">spar <span class="p">30%</span> på alt</span>
-</div>
-{% elsif blackdays == 'cyberdays'  %}
-<div class="cyberdays__banner">
-  {% render 'icon' with 'cyberdays' %}<span class="text">spar <span class="p">30%</span> på alt</span>
-</div>
-{% endif %}
- 
+  <div class="blackdays__banner">
+    {% render 'icon' with 'blackdays' %}<span class="text">Sparen Sie <span class="p">30%</span> auf alles</span>
+  </div>
+  {% elsif blackdays == 'cyberdays'  %}
+  <div class="cyberdays__banner">
+    {% render 'icon' with 'cyberdays' %}<span class="text">Sparen Sie <span class="p">30%</span> auf alles</span>
+  </div>
+  {% endif %}
+
 <section class="Product" data-section-id="{{ section.id }}" data-section-type="product" data-section-settings='{{ section_settings }}'>
   <div class="Product__Wrapper">
     {%- capture action_list_items -%}
@@ -232,6 +232,7 @@
 
             {%- for block in section.blocks -%}
               {%- case block.type -%}
+
                 {%- when 'product_meta' -%}
                   {%- render 'product-meta', form: form, block: block, product: product -%}
 
@@ -304,8 +305,10 @@
                         }
                       </style>
                     {%- endif -%}
-                  <div class="ProductForm__AddToCart__Wrapper">
-                    <button type="submit" data-use-primary-button="{% if use_primary_button %}true{% else %}false{% endif %}" class="ProductForm__AddToCart Button {% if product.selected_or_first_available_variant.available and use_primary_button %}Button--primary{% else %}Button--secondary{% endif %} Button--full" {% if product.selected_or_first_available_variant.available %}data-action="add-to-cart"{% else %}disabled="disabled"{% endif %}>
+                    <a class="js-preorderButton Button Button--primary Button--full {% if product.selected_or_first_available_variant.inventory_quantity <= 0 and product.selected_or_first_available_variant.inventory_policy == 'continue' and product.selected_or_first_available_variant.incoming %}{%- else -%}hide-preorder-button{%- endif -%}">{%- render 'icon' with 'cart' -%}
+                      <span>{{ 'product.preorder.button' | t }}</span></a>
+
+                    <button type="submit" data-use-primary-button="{% if use_primary_button %}true{% else %}false{% endif %}" class="ProductForm__AddToCart Button {% if product.selected_or_first_available_variant.inventory_quantity <= 0 and product.selected_or_first_available_variant.inventory_policy == 'continue' %}hide-addToCart-button{%- else -%}{%- endif -%} {% if product.selected_or_first_available_variant.available and use_primary_button %} Button--primary{% else %} Button--secondary{% endif %} Button--full" {% if product.selected_or_first_available_variant.available %}data-action="add-to-cart"{% else %}disabled="disabled"{% endif %}>
                       {%- if product.selected_or_first_available_variant.available -%}
                         <span>{% if product.template_suffix == 'pre-order' %}{%- render 'icon' with 'cart' -%}{{ 'product.form.pre_order' | t }}{% else %}{%- render 'icon' with 'cart' -%}{{ 'product.form.add_to_cart' | t }}{% endif %}</span>
 
@@ -317,10 +320,9 @@
                         {{- 'product.form.sold_out' | t -}}
                       {%- endif -%}
                     </button>
-                        <!-- Start ønskeskyen knap -->
-                        <button id="ov-onskeskyen-generated-wish-button" class="onskeskyen_pill" type="button">Tilføj til Ønskeskyen</button>
-                        <!-- End ønskeskyen knap -->
-                  </div>
+
+                    {% render 'product-modal' %}
+
                     {%- if block.settings.show_payment_button and product.template_suffix != 'pre-order' -%}
                       {%- render 'icon' with 'cart' -%}{{ form | payment_button }}
                     {%- endif -%}
@@ -328,6 +330,8 @@
 
                 {%- when 'product_usp' -%}
                   {%- include 'usp-blocks' -%}
+                  
+
                 {%- when 'store_pickup' -%}
                   {%- comment -%}The availability container will be added automatically if there is store pickup available{%- endcomment -%}
                   <div class="ProductMeta__StoreAvailabilityContainer" {{ block.shopify_attributes }}></div>

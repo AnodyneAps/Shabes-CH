@@ -216,7 +216,7 @@
 
             <div class="Collapsible Collapsible--padded {% if section.settings.expand_filters %}Collapsible--autoExpand{% endif %}" data-filter-index="{% increment filter_index %}">
               <button type="button" class="Collapsible__Button Heading u-h6" data-action="toggle-collapsible" aria-expanded="false">
-                {%- if filter.label == 'Color' -%}Farve {% else %}{{- filter.label -}} {% endif %}<span class="Collapsible__Plus"></span>
+                {%- if filter.label == 'Color' -%}{{ 'product.general.color_picker' | t }} {% elsif filter.label == 'Size' %}{{ 'product.general.size_picker' | t }}{% else %}{{- filter.label -}} {% endif %}<span class="Collapsible__Plus"></span>
               </button>
 
               <div class="Collapsible__Inner">
@@ -240,7 +240,7 @@
                         {%- for filter_value in filter.values -%}
                           {%- capture filter_value_id -%}@@@@-{{ filter_value.param_name | append: filter_value.value | handle }}{%- endcapture -%}
 
-                          {% if filter.label == 'Størrelse' %}
+                          {% if filter.label == 'Size' %}
                             <li class="HorizontalList__Item">
 
                               <input class="Linklist__Checkbox u-visually-hidden" id="{{ filter_value_id | escape }}" type="checkbox" name="{{ filter_value.param_name }}" value="{{ filter_value.value }}" {% if filter_value.active %}checked{% endif %}>

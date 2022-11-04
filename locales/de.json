@@ -11,7 +11,9 @@
       "scroll_to_content": "Direkt zum Inhalt",
       "previous": "Zurück",
       "next": "Vorwärts",
-      "star_reviews_info": "{{ rating_value }} von {{ rating_max }} Sternen"
+      "star_reviews_info": "{{ rating_value }} von {{ rating_max }} Sternen",
+      "readMore": "Weiterlesen",
+      "readLess": "Lese weniger"
     },
     "announcement_bar": {
       "close": "Schließen"
@@ -283,10 +285,11 @@
       "note_placeholder": "Wie können wir dir helfen?",
       "free_shipping": "Du hast dich für den kostenlosen Versand qualifiziert!",
       "free_shipping_remaining_html": "Kaufe für zusätzliche {{remaining_amount}} um kostenlosen Versand zu erhalten!",
-      "shipping_and_taxes_notice": "Versand & Steuern im Checkout berechnet",
+      "shipping_and_taxes_notice": "inkl. MwSt.",
       "discount": "Rabatt",
       "total": "Gesamt",
-      "checkout": "Zum Checkout"
+      "checkout": "Zum Checkout",
+      "shop_more": "Mehr einkaufen"
     },
     "items": {
       "product": "Produkt",
@@ -309,7 +312,9 @@
   "product": {
     "general": {
       "view_in_space": "In deinem Bereich ansehen",
-      "include_taxes": "inkl. MwSt.",
+      "color_picker": "Farbe",
+      "size_picker": "Größe",
+      "include_taxes": "Inkl. gratis Versand und Retoure",
       "shipping_policy_html": "zzgl. <a href=\"{{ link }}\" class=\"link link--accented\">Versandkosten<\/a>",
       "reviews_count": {
         "zero": "Keine Bewertungen",
@@ -320,6 +325,13 @@
     "labels": {
       "on_sale": "Im Angebot",
       "sold_out": "Ausverkauft"
+    },
+    "preorder": {
+      "kindly_note": "Bitte beachten Sie",
+      "disclaimer": "Bestellungen von Produkten, die gerade nicht erhältlich sind werden beim Abschluss der Bestellung bereits verrechnet, auch wenn diese erst später versendet werden.",
+      "estimated_delivery": "Voraussichtlicher Liefertermin: ",
+      "button": "Jetzt vorbestellen",
+      "second_disclaimer": ""
     },
     "slideshow": {
       "zoom": "Zoomen",

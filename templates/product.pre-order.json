@@ -15,7 +15,7 @@
         "84de7533-8792-46e8-895e-353dad552d05": {
           "type": "text",
           "settings": {
-            "text": "<p>Forudbestillings kampagne - Modtag slut juli<\/p>"
+            "text": "<p>Forudbestillings kampagne - Modtag i Juni<\/p>"
           }
         },
         "description": {
@@ -106,14 +106,6 @@
             "heading_size": 26,
             "heading_size_mobile": 15
           }
-        },
-        "5dea7b1e-257f-4632-9468-0b04860ee7ad": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
-          "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
-            "html_area": ""
-          }
         }
       },
       "block_order": [
@@ -127,8 +119,7 @@
         "57e62e33-b86b-47c8-90e0-325ce193e1ec",
         "49f142a7-218b-4ba6-9cb9-6cd2a98538dc",
         "cb250767-664d-4d86-b135-8adbe75a052c",
-        "25a6f050-3f4b-4099-9e21-6987ac734e09",
-        "5dea7b1e-257f-4632-9468-0b04860ee7ad"
+        "25a6f050-3f4b-4099-9e21-6987ac734e09"
       ],
       "settings": {
         "image_size": "large",

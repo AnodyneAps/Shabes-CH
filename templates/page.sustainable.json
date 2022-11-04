@@ -10,7 +10,7 @@
         "image-alignment-mobile": "center center",
         "image-fixed": false,
         "color-overlay": false,
-        "header": "ET BÆREDYGTIGT BRAND DER STÅR I KONTRAST TIL FAST FASHION",
+        "header": "Ein nachhaltiges feuer im gegensatz zu starrer mode",
         "text_color": "#ffffff"
       }
     },
@@ -23,12 +23,12 @@
         "background_img": "none",
         "background": "#ffffff",
         "text_color": "#342e29",
-        "title": "Fokus på produktet",
+        "title": "Fokus auf das produkt",
         "h1": false,
         "heading_size": 32,
         "margin_heading": false,
         "heading_size_mobile": 22,
-        "content": "<p>Vi er et tidsløst brand, der bruger vores tid på at fuldføre og perfektionere hvert enkelt produkt. Når du køber et produkt fra Shabes, fjerner vi dine bekymringer om fremtidens trends og giver dig i stedet luksuriøst shapewear fyldt med kvalitet, som du kan bruge det igen og igen uden, at det slides op.<\/p>",
+        "content": "<p>Wir sind eine zeitlose Marke, mit dem Ziel, jedes einzelne Produkt zu vervollständigen und zu perfektionieren. Wenn Sie ein Produkt von SHABES kaufen, nehmen wir Ihnen Sorgen über zukünftige Trends und geben Ihnen stattdessen luxuriöse Shapewear in höchster Qualität.<\/p>",
         "max_content": false,
         "max_content_size": 50,
         "max_box_size": 50,
@@ -41,10 +41,10 @@
       "settings": {
         "height": false,
         "subheading": "",
-        "title": "KVALITET OVER KVANTITET",
-        "image": "shopify:\/\/shop_images\/95017_67996c0b-5a12-4777-95ce-c27311d41178.jpg",
+        "title": "Qualität vor quantität",
+        "image": "shopify:\/\/shop_images\/95017.jpg",
         "image_position": "right",
-        "content": "<p>Vi arbejder aktivt på at biddrage til en grønnere modebranche. Vi tager bæredygtighed seriøst. Derfor er vores shapewear skabt i en kombination af branchens mest innovative materialer valgt ud fra fire kriterier: Funktionalitet, komfort, holdbarhed og bæredygtig produktion.<\/p>",
+        "content": "<p>Wir arbeiten aktiv daran, einen Beitrag zu einer grüneren Modeindustrie zu leisten. Wir nehmen Nachhaltigkeit ernst. Aus diesem Grund wird unsere Shapewear aus einer Kombination der innovativsten Materialien der Industrie hergestellt, die auf vier Kriterien basieren: Funktionalität, Komfort, Haltbarkeit und nachhaltige Produktion.<\/p>",
         "text_align": "center",
         "heading_size": 26,
         "sub_heading_size": 20,
@@ -71,27 +71,27 @@
         "56c9310c-1bc1-4880-9cd3-a7dbc7aa6e42": {
           "type": "accordion",
           "settings": {
-            "title": "SENSIL® ECOCARE",
-            "richtext": "<p>Vores bæredygtige materiale Sensil® Ecocare fremstilles ved hjælp af en yderst effektiv genbrugsproces, der reducerer CO2, energi, og vandforbruget med op til 80%. Vores genanvendte nylongranulater bevarer garnegenskaberne fra normalt nylon. Det er bæredygtighed for dig og vores planet uden at gå ned på komfort eller effektivitet. Materialet er OEKO-TEX og SCS certificeret.<\/p>",
-            "image": "shopify:\/\/shop_images\/materials.jpg",
+            "title": "Sensil® ecocare",
+            "richtext": "<p>Unser nachhaltiges Material Sensil® Ecocare wird in einem hocheffizienten Recyclingverfahren hergestellt, das den CO2-, Energie- und Wasserverbrauch um bis zu 80 % reduziert. Unser recyceltes Nylongranulat behält die Garneigenschaften von normalem Nylon bei. Das ist Nachhaltigkeit für Sie und unseren Planeten, ohne Kompromisse bei Komfort oder Effizienz einzugehen. Das Material ist OEKO-TEX und SCS zertifiziert.<\/p>",
+            "image": "shopify:\/\/shop_images\/Sensil.jpg",
             "image-alignment": "center center"
           }
         },
         "35d24b82-3403-46c3-8289-92dc64489803": {
           "type": "accordion",
           "settings": {
-            "title": "LYCRA® SHAPING TECHNOLOGY",
-            "richtext": "<p>Lyder det teknisk? Det er det også! Shaping Technology® er det nyeste materiale udviklet af Lycra® specifikt til shapewear. Materialet er skabt til at give dig en timeglasfigur uden en følelse af ubehag. Udover at opstramme bedre end nogen andre materialer er Lycra® Shaping Technology® også langtidsholdbart og kan strække sig over 100% uden, at det mister sin funktionalitet. Et fantastisk materiale skabt til din fantastiske krop og implementeret i alt shapewear fra Shabes. <\/p>",
-            "image": "shopify:\/\/shop_images\/SHABES_fabric_lycra_small_81be1bcf-3217-4f90-897e-646931216458.jpg",
+            "title": "Lycra® Shaping Technologie",
+            "richtext": "<p>Hört sich das technisch an? Ist es auch! Shaping Technology® ist das neueste Material, das von Lycra® speziell für Shapewear entwickelt wurde. Das Material wurde entwickelt, um Ihnen eine wunderschöne Figur zu geben, ohne Sie dabei einzuschränken. Lycra® Shaping Technologie® strafft nicht nur besser als jedes andere Material, sondern ist auch auch langlebig und kann über 100 % ausgedehnt werden, ohne seine Funktionalität zu verlieren. Ein erstaunliches Material, das für Ihren erstaunlichen Körper geschaffen wurde und in allen Shapewear-Produkten von SHABES eingesetzt wird.<\/p>",
+            "image": "shopify:\/\/shop_images\/Lycra.jpg",
             "image-alignment": "center center"
           }
         },
         "08f74ad9-5951-40e1-be83-dd9bc91babf7": {
           "type": "accordion",
           "settings": {
-            "title": "NYLON 6.6",
-            "richtext": "<p>Nylon 6.6 er et slidstærkt, åndbart og temperaturregulerende materiale, som vi bruger i alle vores produkter. Materialet har 33% højere slidstyrke end andre nylonformer og sikrer derved, at du kan bruge dit shapewear igen og igen. Bæredygtigt for dig og vores planet. Nylon 6.6 er behageligt på og for huden, da det ikke bliver for varmt at gå med og tillader din hud at trække vejret, imens du bruger det.<\/p>",
-            "image": "shopify:\/\/shop_images\/shutterstock_1138374116.jpg",
+            "title": "Nylon 6.6",
+            "richtext": "<p>Nylon 6.6 ist ein haltbares, atmungsaktives und temperaturregulierendes Material, das wir in allen unseren Produkten verwenden. Das Material hat eine um 33% höhere Verschleißfestigkeit als andere Nylonformen und sorgt so dafür, dass Sie Ihre Shapewear wieder und wieder verwenden können. Nachhaltig für Sie und unseren Planeten. Nylon 6.6 ist angenehm auf der Haut, da es nicht zu heiß wird und die Haut beim Tragen atmen kann.<\/p>",
+            "image": "shopify:\/\/shop_images\/Nylon.jpg",
             "image-alignment": "center center"
           }
         }
@@ -105,46 +105,23 @@
         "full_height": false,
         "text_color": "#ffffff",
         "background-color": "#342e29",
-        "title": "Vores Materialer",
+        "title": "Materialien",
         "heading_size": 32
-      }
-    },
-    "163663854110e451c5": {
-      "type": "text-with-image",
-      "settings": {
-        "height": false,
-        "subheading": "",
-        "title": "'Made in Europe'",
-        "image": "shopify:\/\/shop_images\/95372_b5debbc3-3e71-42a4-b3cf-a36dea0cc1a5.jpg",
-        "image_position": "right",
-        "content": "<p>’Made in Europe’ er et mærkat fyldt med arv, uovertruffen kvalitet og prisvindende håndværk. Europa er hjemsted for førende brands, internationalt anerkendte designere, dygtige forskere indenfor tekstiler og symboliserer ekspertise og enestående evner, når det kommer til produktion af sømløst undertøj. Kombineret med vores visioner er det opskriften på komfortabelt, effektivt og luksuriøst shapewear. At producerer i Europa er et stempel som vi er stolte af. Vores leverandører producerer under EU’s lovgivning om retfærdighed, etisk arbejdskraft og bæredygtig produktion. Når vi producerer vores shapewear, gør vi det med grøn energi og med de bedste folk i branchen.<\/p>",
-        "text_align": "left",
-        "heading_size": 26,
-        "sub_heading_size": 20,
-        "richtext_size": 16,
-        "link_text": "",
-        "link_url": "",
-        "button_size": 16,
-        "button_color": "#ffffff",
-        "button_border_color": "#ffffff",
-        "button_fill": "#ffffff",
-        "button_color_hoover": "#342e29",
-        "button_fill_hoover": "#ffffff"
       }
     },
     "1633373842f42602cd": {
       "type": "two-text-blocks-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Verdensmaal-logo-staaende-white-baggrund-RGB_1000x_copy.jpg",
+        "image": "shopify:\/\/shop_images\/Verdensmaal-logo-staaende-white-baggrund-RGB_1000x_copy_1000x_4ac04c4b-8694-49c9-8082-5882c1a3a366.jpg",
         "max_content": true,
-        "max_content_size": 10,
-        "max_box_size": 110,
+        "max_content_size": 140,
+        "max_box_size": 100,
         "subheading": "",
         "title": "Nummer 8",
-        "content": "<p>FN’s verdensmål nummer 8 handler om at fremme vedvarende, inklusiv og bæredygtig økonomisk vækst samt anstændigt arbejde. Op gennem hele vores værdikæde finder man miljøvenlige tiltag, der skal understøtte vores bæredygtige vision. Vi designer vores shapewear og emballagen dertil i Danmark, og producerer under ordnede europæiske forhold i Europa. For at leve op til verdensmålet producerer vi fra vedvarende energikilder som dækker op til 80% af vores energi i produktionsfasen. Arbejdet med FNs verdensmål er kontinuerligt arbejde, som kræver fokus og vedholdenhed, men det er hele arbejdet værd. Det betyder nemlig, at du kan købe SHABES med grøn samvittighed, og det er vi stolte af.<\/p>",
+        "content": "<p>UN-Weltziel Nr. 8 ist die Förderung eines nachhaltigen, integrativen und zukunftsfähigen Wirtschaftswachstum, sowie menschenwürdige Arbeit. In unserer gesamten Wertschöpfungskette finden Sie umweltfreundliche Initiativen, die unsere nachhaltige Vision unterstützen. Wir entwerfen unsere Shapewear und Verpackungen in Dänemark, und produzieren unter geordneten europäischen Bedingungen in Europa. Um der Umwelt gerecht zu werden, produzieren wir aus erneuerbaren Energiequellen, die bis zu 80% der verwendeten Energie in der Produktionsphase abdecken. Die Arbeit an den Weltzielen der UN ist eine kontinuierliche Arbeit, die Konzentration und Ausdauer erfordert. Aber diese Arbeit ist es uns wert. Denn dies bedeutet, dass Sie SHABES mit grünem Gewissen kaufen können, und darauf sind wir stolz.<\/p>",
         "subheading_2": "",
         "title_2": "Nummer 12",
-        "content_2": "<p>FN’s verdensmål nummer 12 handler om ansvarligt forbrug og produktion. Modebranchen skal gøres grønnere ved at udskifte mange af de gamle tekstiler vi har været vandt til at bruge, med nye, mere behagelige og effektive materialer der samtidig sparer på ressourcerne i produktionsfasen. Ved at implementere SENSIL® EcoCare i vores shapewear sparer vi 70% CO2, over 50% energi og 80% af den mængde vand, som normalt bruges i produktionsfasen af nylon. Vores materialer er udvalgt efter funktionalitet, komfort, holdbarhed og bæredygtig produktion. Alt sammen noget der er med til at forøge livslængden på dit produkt og lade dig bruge det igen og igen uden, at det mister effekt. Det er kvalitet for dig og vores planet.<\/p>",
+        "content_2": "<p>Beim UN-Weltziel Nummer 12 geht es um verantwortungsvollen Konsum und verantwortungsvolle Produktion. Die Modeindustrie muss umweltfreundlicher werden, indem viele der alten Textilien, an die wir uns gewöhnt haben, durch durch neue, komfortablere und effizientere Materialien ersetzt werden, die gleichzeitig ressourcenschonend in der Produktionsphase sind. Durch den Einsatz von SENSIL® EcoCare in unserer Shapewear sparen wir 70 % CO2, über 50 % Energie und 80 % der Wassermenge ein, die normalerweise für die Herstellung von Nylon verwendet wird. Unsere Materialien werden nach den Kriterien Funktionalität, Komfort, Haltbarkeit und nachhaltige Produktion ausgewählt. All das, um die Lebensdauer Ihres Produkts zu verlängern und es immer wieder zu verwenden, ohne an Wirkung zu verlieren. Das ist Qualität für Sie und unseren Planeten.<\/p>",
         "text_align": "center",
         "heading_size": 32,
         "sub_heading_size": 20,
@@ -158,7 +135,6 @@
     "1633368438537c10f2",
     "main",
     "1633283801b9836860",
-    "163663854110e451c5",
     "1633373842f42602cd"
   ]
 }

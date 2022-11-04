@@ -40,9 +40,6 @@
         "apply_overlay": true,
         "show_color_swatch": true,
         "show_vendor": true,
-        "show_product-days": false,
-        "selector_product-days": "none",
-        "blackdays__save": "",
         "collection_image_size": "normal",
         "show_sort_by": false,
         "show_layout_switch": false,
@@ -56,7 +53,7 @@
         "grid_mobile_items_per_row": "2",
         "grid_desktop_items_per_row": 3,
         "section_size": "preserveRatio",
-        "video_url": "https:\/\/vimeo.com\/623365744"
+        "video_url": "https:\/\/vimeo.com\/737362138"
       }
     },
     "1633105453d9ab1568": {
@@ -65,33 +62,33 @@
         "1633105453d9ab1568-0": {
           "type": "review",
           "settings": {
-            "review_heading": "Jeg kan klart se en forskel",
-            "review_richtext": "<p>Jeg kan klart se en forskel. Prøvede under en stram kjole og der er ingen tvivl om, at i løfter min bagdel. Positivt overrasket!<\/p>",
-            "review_name": "Elisabeth Bach"
+            "review_heading": "SUPER SUPER SUPER gutes Produkt",
+            "review_richtext": "<p>Es gibt ein FANTASTISCHES GEFÜHL zu tragen und ich fühle mich damit sehr wohl. SUPER SUPER SUPER gutes Produkt<\/p>",
+            "review_name": "Pernille Krause"
           }
         },
         "1633105453d9ab1568-1": {
           "type": "review",
           "settings": {
-            "review_heading": "Utroligt blødt",
-            "review_richtext": "<p>Utrolig blødt at have på, strammer op lige hvor det skal og er på intet tidspunkt ubehageligt. Jeg vil klart anbefale Shabes.<\/p>",
-            "review_name": "Heidi Boll"
+            "review_heading": "Ich liebe eure Shabes absolut!",
+            "review_richtext": "<p>Ich liebe eure Shabes absolut! Ich habe sie gestern vor dem Geburtstag meiner Mutter erhalten und habe sie 12 Stunden am Stück getragen.<\/p>",
+            "review_name": "Trine Dahl Nielsen"
           }
         },
         "1633105453d9ab1568-2": {
           "type": "review",
           "settings": {
-            "review_heading": "Mit tøj sidder pænere!",
-            "review_richtext": "<p>Shabes støtter og optimerer mine former samtidig med at det får mit tøj til at sidde pænere, end da jeg købte det.<\/p>",
-            "review_name": "Trine Rasmussen"
+            "review_heading": "Die beste Shapewear bis jetzt!",
+            "review_richtext": "<p>Die beste Shapewear bis jetzt! Ich liebe die Qualität, die Beweglichkeit und dass sie genau da spannt, wo sie muss. Fühlt sich an wie Seide!<\/p>",
+            "review_name": "Karina Nordbo"
           }
         },
         "05608790-23bf-4641-9e99-59c505dc8e3c": {
           "type": "review",
           "settings": {
-            "review_heading": "Kan klart anbefale SHABES",
-            "review_richtext": "<p>Sidder behageligt! Jeg kan klart anbefale shapewear fra Shabes. <\/p>",
-            "review_name": "Jill Lyhne"
+            "review_heading": "Ein wirklich tolles Produkt",
+            "review_richtext": "<p>Ein wirklich tolles Produkt. Die beste Shapewear, die ich ausprobiert habe! Unheimlich angenehm zu tragen und gleichzeitig tut es genau das, was es tun soll.<\/p>",
+            "review_name": "Lis Bjerre"
           }
         }
       },
@@ -107,7 +104,7 @@
         "cycle_speed": 5,
         "draggable": true,
         "arrows": true,
-        "title": "Vores kunder elsker os",
+        "title": "Das sagen unsere kunden über shabes",
         "heading_size": 36,
         "heading_size_mobile": 22
       }
@@ -121,8 +118,8 @@
             "icon_selector": "reason-1",
             "icon-color": "#d8beac",
             "icon_size": 200,
-            "icon_heading": "Produktet virker – Maksimum løfteeffekt!",
-            "icon_text": "<p>Vores opstrammende materialer kombineret med konstruktionen i vores shapewear sikrer dig, at numsen altid sidder som den skal, at maven og lårene altid glattes ud, en timeglasfigur og et smil på læben. Vi har 100% tilfredshedsgaranti.<\/p>"
+            "icon_heading": "MAXIMALER STRAFFUNGSEFFEKT!",
+            "icon_text": "<p>Unsere straffenden Materialien in Kombination mit der Konstruktion unserer Shapewear sorgen dafür, dass das Gesäß immer so sitzt, wie es soll und dass auch Bauch und Oberschenkel immer geglättet sind. So erstrahlt der Körper in einer Traumfigur, immer mit einem Lächeln auf den Lippen. Wir geben eine 100% Zufriedenheitsgarantie.<\/p>"
           }
         },
         "1633105440fb57a17a-1": {
@@ -131,8 +128,8 @@
             "icon_selector": "reason-2",
             "icon-color": "#d8beac",
             "icon_size": 200,
-            "icon_heading": "Behageligt for kroppen hele dagen!",
-            "icon_text": "<p>Vores bløde og behagelige materialer får dig helt til at glemme, at du har vores shapewear på. Vi mener, at det bedste shapewear er det shapewear, som du har lyst til at gå med. Når du handler hos Shabes, har vi dig og din krop i fokus. Husk vi har fri retur! <\/p>"
+            "icon_heading": "KOMFORT DEN GANZEN TAG!",
+            "icon_text": "<p>Unsere weichen und bequemen Materialien lassen Sie völlig vergessen, dass Sie unsere Shapewear tragen. Wir glauben, dass die beste Shapewear diejenige ist, mit der Sie sich wohlfühlen. Wenn Sie bei Shabes einkaufen, stehen Sie und Ihr Körper im Mittelpunkt. Denken Sie daran, dass wir eine kostenlose Rückgabe anbieten!<\/p>"
           }
         },
         "1633105440fb57a17a-2": {
@@ -141,8 +138,8 @@
             "icon_selector": "reason-4",
             "icon-color": "#d8beac",
             "icon_size": 140,
-            "icon_heading": "Venlig og professionel kundeservice!",
-            "icon_text": "<p>For at give dig den bedste oplevelse er vores designere altid online og klar til at rådgive dig fra 09-18 hver dag. Det er ikke altid nemt at vælge det rigtige shapewear, derfor er det vigtigt for os at du føler, at du får den fornødne hjælp. <\/p>"
+            "icon_heading": "FREUNDLICHER UND PROFESSIONELLER KUNDENSERVICE!",
+            "icon_text": "<p>Um Ihnen die beste Erfahrung zu bieten, sind unsere Designer stets online und bereit, Sie jeden Tag von 09-18 Uhr zu beraten. Es ist nicht immer einfach, die richtige Shapewear zu finden. Deshalb ist es uns wichtig, dass Sie eine optimale Beratung erhalten.<\/p>"
           }
         }
       },
@@ -160,7 +157,7 @@
         "cycle_speed": 5,
         "draggable": true,
         "arrows": true,
-        "title": "3 grunde til at du skal købe shapewear fra SHABES",
+        "title": "DREI GRÜNDE, SICH FÜR SHABES ZU ENTSCHEIDEN",
         "heading_size": 32,
         "heading_size_mobile": 22
       }

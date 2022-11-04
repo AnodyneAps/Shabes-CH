@@ -34,7 +34,7 @@
     "base_text_font_size": 16,
     "country_selector": true,
     "currency_code_enabled": false,
-    "color_swatch_config": "Beige: #faebd3;\nSort: #000;",
+    "color_swatch_config": "Schwarz: #342e29;\nCreme: #faebd3;",
     "show_page_transition": false,
     "show_button_transition": true,
     "show_image_zooming": false,
@@ -53,7 +53,7 @@
     "cart_free_shipping_threshold": "50",
     "social_facebook": "https:\/\/www.facebook.com\/shabesofficial",
     "social_instagram": "https:\/\/instagram.com\/shabesofficial",
-    "favicon": "shopify:\/\/shop_images\/SHABES_ICON_BEIGE.png",
+    "favicon": "shopify:\/\/shop_images\/SHABES-ICON-BEIGE.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/SHABES_LOGO_SORT.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
@@ -77,43 +77,43 @@
         "settings": {
           "enable_bar": true,
           "home_page_only": false,
-          "posistion_fixed": false,
+          "posistion_fixed": true,
           "background": "#d8beac",
           "text_color": "#ffffff",
           "enable_bar_one": false,
-          "content": "KLIK HER og vind en rabatkode",
-          "link": "https:\/\/shabes.dk\/pages\/rabatkode",
-          "fadein_one": "Fri fragt ved køb over 399 kr",
+          "content": "HIER KLICKEN, um einen Code zu erhalten",
+          "link": "https:\/\/shabes.ch\/pages\/rabatt-code",
+          "fadein_one": "Gratis Versand",
           "icon_selector1": "package",
-          "fadein_two": "Fri 30 dages retur",
+          "fadein_two": "KOSTENLOSES RÜCKGABERECHT",
           "icon_selector2": "shipping",
-          "fadein_three": "+45 53 89 00 53",
+          "fadein_three": "+41 (0) 44 551 01 31",
           "icon_selector3": "heart",
-          "fadein_four": "Nem og sikker betaling",
+          "fadein_four": "EINFACHE UND SICHERE BEZAHLUNG",
           "icon_selector4": "cards"
         }
       },
       "header": {
         "type": "header",
         "blocks": {
-          "5faa2ac8-339c-42c3-ad37-507840a0c10d": {
+          "110768ba-6ca1-4da9-be6e-08b81a28d8f8": {
             "type": "mega_menu",
             "settings": {
-              "navigation_mega_menu": "Shop nu",
-              "linkbox_1_header": "Alt Shapewear",
-              "linkbox_1_link": "shopify:\/\/collections\/alt-shapewear",
+              "navigation_mega_menu": "Shop",
+              "linkbox_1_header": "Alle Shapewear",
+              "linkbox_1_link": "shopify:\/\/collections\/alle-shapewear-produkte",
               "linkbox_1_menu": "all-shapewear",
-              "linkbox_2_header": "Alle Kollektioner",
-              "linkbox_2_link": "shopify:\/\/collections\/alt-shapewear",
-              "linkbox_2_menu": "alle-kollektioner",
+              "linkbox_2_header": "Shapewear KOLLEKTION",
+              "linkbox_2_link": "shopify:\/\/collections\/alle-shapewear-produkte",
+              "linkbox_2_menu": "collection",
               "linkbox_3_header": "Shaping Effekt",
-              "linkbox_3_link": "shopify:\/\/collections\/alt-shapewear",
-              "linkbox_3_menu": "shaping-niveau"
+              "linkbox_3_link": "shopify:\/\/collections\/alle-shapewear-produkte",
+              "linkbox_3_menu": "shaping-level"
             }
           }
         },
         "block_order": [
-          "5faa2ac8-339c-42c3-ad37-507840a0c10d"
+          "110768ba-6ca1-4da9-be6e-08b81a28d8f8"
         ],
         "settings": {
           "use_sticky_header": true,
@@ -127,8 +127,7 @@
           "enable_transparent_header": false,
           "enable_transparent_header_collection": false,
           "show_transparent_header_border": true,
-          "transparent_text_color": "#ffffff",
-          "transparent_logo": "shopify:\/\/shop_images\/22906.jpg"
+          "transparent_text_color": "#ffffff"
         }
       },
       "footer": {
@@ -137,25 +136,25 @@
           "show_payment_methods": true,
           "show_language_selector": true,
           "language_selector_header": "Language selector header",
-          "newsletter_header": "BLIV EN DEL AF FAMILIEN",
+          "newsletter_header": "Werde ein Teil der Shabes-Familie",
           "newsletter_image": "shopify:\/\/shop_images\/94824AA_cut.jpg",
-          "text_box_header": "Om Shabes",
-          "text_box_text": "<p>Dansk designet og europæisk produceret højkvalitets shapewear der optimerer kroppens former. Vores sømløse og formgivende shapewear er tidsløst designet, produceret fra grønne energikilder og med bæredygtigt materiale. Vi strammer ind, løfter op og skaber den næste generation af shapewear, der virker uanset alder, størrelse eller kropstype.<\/p>",
+          "text_box_header": "ÜBER SHABES",
+          "text_box_text": "<p>Hochwertige Shapewear mit dänischem Design und europäischer Produktion, die Körperformen optimiert. Unsere nahtlose und formende Shapewear hat ein zeitloses Design und wird aus grünen Energiequellen und mit nachhaltigen Materialien hergestellt. Wir straffen, formen und schaffen die nächste Generation von Shapewear, die unabhängig von Alter, Größe oder Körpertyp funktioniert.<\/p>",
           "linkbox_1_header": "Links",
-          "linkbox_1_menu": "ny-menu",
-          "linkbox_2_header": "Kundeservice",
+          "linkbox_1_menu": "main-menu",
+          "linkbox_2_header": "KUNDENSERVICE",
           "linkbox_2_menu": "footer",
-          "contact_box_header": "Kontakt os",
-          "contact_box_phone": "Tel:",
-          "contact_box_number": "+45 53 89 00 53",
-          "contact_box_mail": "E-mail:",
-          "contact_box_mail_text": "hello@shabes.dk",
-          "contact_box_day_week": "Man-tor",
-          "contact_box_day_week_time": "10.00-16.00",
-          "contact_box_day_weekend": "Fredag:",
-          "contact_box_day_weekend_time": "10.00-15.00",
-          "copyright_text": "2022, SHABES ApS. All rights reserved",
-          "copyright_text_company": "<p><strong>CVR:<\/strong> 41483725<\/p>"
+          "contact_box_header": "Kontakt",
+          "contact_box_phone": "Mon-sonn:",
+          "contact_box_number": "09.00 - 18.00",
+          "contact_box_mail": "Tel:",
+          "contact_box_mail_text": "+41 (0) 44 551 01 31",
+          "contact_box_day_week": "E-mail:",
+          "contact_box_day_week_time": "hello@shabes.ch",
+          "contact_box_day_weekend": "Live chat:",
+          "contact_box_day_weekend_time": "<a style=\"text-decoration: underline; cursor: pointer;\" onclick=\"tidioChatApi.open()\">Chatte hier<\/a>",
+          "copyright_text": "2021 Shabes.dk | Anodyne GmbH, Bahnstrasse 25, 8603 Schwerzenbach, Switzerland (Kein Verkauf von dieser Adresse).",
+          "copyright_text_company": "<p>UID: CHE-280.781.291 MwSt.<\/p>"
         }
       },
       "popup": {
@@ -176,14 +175,7 @@
 
     ],
     "blocks": {
-      "qcp3HY3kSFuxVrJcGG": {
-        "type": "shopify:\/\/apps\/drip-email-marketing\/blocks\/drip_shopify_snippet\/0c4de56d-b2fa-4621-acea-6293bc16aba8",
-        "disabled": false,
-        "settings": {
-          "account_param": "8891280"
-        }
-      },
-      "9057320571597494": {
+      "45655725559757980": {
         "type": "shopify:\/\/apps\/dcart\/blocks\/app-embed\/731e2611-8bdf-4514-b5e4-f64f1cae3fb7",
         "disabled": false,
         "settings": {
