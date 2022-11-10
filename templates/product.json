@@ -9,7 +9,10 @@
             "show_vendor": true,
             "show_sku": false,
             "show_product_rating": false,
-            "show_taxes_included": false
+            "show_taxes_included": false,
+            "show_meta-days": false,
+            "selector_meta-days": "none",
+            "blackdays__meta-save": "30%"
           }
         },
         "variant_selector": {
@@ -31,6 +34,7 @@
         "f4cce94d-6434-4928-a9a9-d142eb3b4702": {
           "type": "product_usp",
           "settings": {
+            "blackdays__returndate": "",
             "usp_autoplay": true,
             "usp_cycle_speed": 3,
             "icon_selector1": "package",

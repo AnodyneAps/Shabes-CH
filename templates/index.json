@@ -34,7 +34,8 @@
         "button_color": "#342e29",
         "button_background": "#ffffff",
         "button_color_hover": "#ffffff",
-        "button_background_hover": "rgba(0,0,0,0)"
+        "button_background_hover": "rgba(0,0,0,0)",
+        "svg_selector": "none"
       }
     },
     "163276763442e7599e": {
@@ -88,7 +89,10 @@
         "show_vendor": false,
         "show_color_swatch": true,
         "grid_mobile_items_per_row": "2",
-        "grid_desktop_items_per_row": 4
+        "grid_desktop_items_per_row": 4,
+        "show_product-days": false,
+        "selector_product-days": "cyber days",
+        "blackdays__save": "30%"
       }
     },
     "1632827034e58962e0": {

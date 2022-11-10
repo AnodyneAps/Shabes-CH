@@ -14230,6 +14230,27 @@ button.vp-unmute-button span.vp-unmute-button-title {
 .ProductItem__Wrapper .days__badge--save--cyber,
 .ProductItem__Wrapper .days__badge--save--black{
   position: absolute;
+  top: 10px;
+  right:10px;
+  width: 40px;
+  height: 40px;
+  color:white;
+  padding: 4px;
+  line-height: 1;
+  font-size: 14px;
+  font-weight: 900;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  text-align: center;
+  text-transform: uppercase;
+}
+@media screen and (min-width: 560px){
+  .ProductMeta .days__badge--save--blackdays,
+.ProductMeta .days__badge--save--cyberdays,
+.ProductItem__Wrapper .days__badge--save--cyber,
+.ProductItem__Wrapper .days__badge--save--black{
+  position: absolute;
   top: 30px;
   right:30px;
   width: 60px;
@@ -14245,6 +14266,7 @@ button.vp-unmute-button span.vp-unmute-button-title {
   text-align: center;
   text-transform: uppercase;
 }
+}
 .ProductMeta .days__badge--save--blackdays,
 .ProductItem__Wrapper .days__badge--black,
 .ProductItem__Wrapper .days__badge--save--black,
@@ -14259,7 +14281,7 @@ button.vp-unmute-button span.vp-unmute-button-title {
 }
 .ProductMeta .days__badge--save--blackdays,
 .ProductMeta .days__badge--save--cyberdays{
-  top: 70px;
+  top: 60px;
 }
 
 .ProductMeta .days__badge--save--cyberdays,
@@ -14339,5 +14361,5 @@ line-height: 1;
     margin-left: 1rem;
     }
 }
-#shopify-block-9057320571597494{display:none}
+#shopify-block-45655725559757980{display:none}
 
