@@ -278,6 +278,8 @@
     "general": {
       "title": "Warenkorb",
       "empty": "Dein Warenkorb ist leer",
+      "subtotal": "Zwischensumme",
+      "samletbesparelse": "Gesamtersparnis",
       "empty_button": "Shoppe unsere Produkte",
       "add_note": "Bestellnotiz hinzufügen",
       "edit_note": "Bestellnotiz bearbeiten",

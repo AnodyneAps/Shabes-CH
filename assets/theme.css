@@ -14207,6 +14207,7 @@ button.vp-unmute-button span.vp-unmute-button-title {
   color: var(--button-background) !important;
 }
 
+
 /* ================================ blackdays special ===================================  */
 .SectionHeader .black-title .Icon {
   width: 80%;
@@ -14310,6 +14311,7 @@ button.vp-unmute-button span.vp-unmute-button-title {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  font-family: var(--heading-font-family);
 }
 .blackdays__banner{
   background-color: var(--blackdays);
@@ -14334,12 +14336,13 @@ button.vp-unmute-button span.vp-unmute-button-title {
 text-transform: uppercase;
 font-size: 1.6rem;
 margin-left: 0;
+  margin-top: 5px;
 line-height: 1;
 }
 .blackdays__banner .text .p,
 .cyberdays__banner .text .p {
   font-weight: 900;
-  color: var(--product-sale-price-color);
+  color: var(--button-background);
 }
 @media screen and (min-width: 560px){
   .blackdays__banner,
@@ -14360,6 +14363,27 @@ line-height: 1;
     font-size: 2rem;
     margin-left: 1rem;
     }
+}
+/*------------ Drawer totals ------- */
+.Drawer__totals{
+  margin-top: -15px;
+  border-bottom: 1px solid rgba(122,122,122,0.3);
+}
+.Drawer__totals .Drawer__subtotal,
+.Drawer__totals .Drawer__savings{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Drawer__totals strong,
+.Drawer__totals .Drawer__subtotal .text__price,
+.Drawer__totals .Drawer__savings .text__price{
+  font-family: var(--heading-font-family);
+  font-weight: 900;
+}
+
+.Drawer__totals .Drawer__savings {
+  color: var(--button-background);
 }
 #shopify-block-45655725559757980{display:none}
 

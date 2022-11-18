@@ -40,7 +40,7 @@
         "apply_overlay": true,
         "show_color_swatch": true,
         "show_vendor": true,
-        "show_product-days": false,
+        "show_product-days": true,
         "selector_product-days": "black days",
         "blackdays__save": "30%",
         "collection_image_size": "normal",

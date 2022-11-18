@@ -10,10 +10,10 @@
             "mobile_image": "shopify:\/\/shop_images\/56911.jpg",
             "image_position": "top center",
             "apply_overlay": true,
-            "content_position": "bottomLeft",
-            "subheading": "KOMFORTABLE UND HOCHWERTIGE SHAPEWEAR DESIGNED IN DÄNEMARK",
-            "title": "SEI DEIN BESTES SELBST MIT SHABES",
-            "button_1_text": "JETZT BESTELLEN",
+            "content_position": "middleCenter",
+            "subheading": "",
+            "title": "Sparen Sie 30% auf alles bei Shabes",
+            "button_1_text": "Jetzt bestellen – Sie sparen 30%",
             "button_1_link": "shopify:\/\/collections\/alle-shapewear-produkte",
             "button_2_text": "",
             "button_2_link": ""
@@ -25,17 +25,17 @@
       ],
       "settings": {
         "show_fullscreen": true,
-        "show_arrow": false,
+        "show_arrow": true,
         "autoplay": true,
         "cycle_speed": 5,
         "heading_size": 38,
         "sub_heading_size": 18,
         "text_color": "#ffffff",
-        "button_color": "#342e29",
-        "button_background": "#ffffff",
-        "button_color_hover": "#ffffff",
-        "button_background_hover": "rgba(0,0,0,0)",
-        "svg_selector": "none"
+        "button_color": "#ffffff",
+        "button_background": "#303030",
+        "button_color_hover": "#303030",
+        "button_background_hover": "#ffffff",
+        "svg_selector": "blackdays"
       }
     },
     "163276763442e7599e": {
@@ -90,8 +90,8 @@
         "show_color_swatch": true,
         "grid_mobile_items_per_row": "2",
         "grid_desktop_items_per_row": 4,
-        "show_product-days": false,
-        "selector_product-days": "cyber days",
+        "show_product-days": true,
+        "selector_product-days": "black days",
         "blackdays__save": "30%"
       }
     },
