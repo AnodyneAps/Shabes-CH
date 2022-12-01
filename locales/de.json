@@ -369,6 +369,12 @@
     },
     "tabs": {
       "reviews": "Bewertungen"
+    },
+    "counter": {
+      "days": "Tage",
+      "hours": "Stunden",
+      "minutes": "Minuten",
+      "seconds": "Sekunden"
     }
   },
   "store_availability": {

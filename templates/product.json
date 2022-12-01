@@ -11,7 +11,7 @@
             "show_product_rating": false,
             "show_taxes_included": false,
             "show_meta-days": true,
-            "selector_meta-days": "blackdays",
+            "selector_meta-days": "cyberdays",
             "blackdays__meta-save": "30%"
           }
         },
@@ -206,7 +206,8 @@
         "heading": "ANDERE HABEN ANGESEHEN",
         "show_product_info": true,
         "show_vendor": true,
-        "show_color_swatch": true
+        "show_color_swatch": true,
+        "selector_product-days": "none"
       }
     }
   },
