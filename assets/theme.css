@@ -14209,13 +14209,13 @@ button.vp-unmute-button span.vp-unmute-button-title {
   color: var(--button-background) !important;
 }
 
-/*  ==============================================Black days counter ============================================== */
+/*  ===============Black days counter =============== */
 .flip-container {
   display: none;
 }
 .flip-container.show-flip {
   position: absolute;
-  bottom: -35px;
+  bottom: -25px;
   left: 50%;
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
@@ -14356,13 +14356,13 @@ button.vp-unmute-button span.vp-unmute-button-title {
  }
 }
 .flip-container.show-flip .flip-box .flip-group .flip-wrapper .flip-card .top, .flip-container.show-flip .flip-box .flip-group .flip-wrapper .flip-card .top-flip {
-  background-color: #cbcbcb;
+  background-color: #ffffff;
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
   border-bottom: 0.5px solid rgba(0, 0, 0, 0.1);
 }
 .flip-container.show-flip .flip-box .flip-group .flip-wrapper .flip-card .bottom, .flip-container.show-flip .flip-box .flip-group .flip-wrapper .flip-card .bottom-flip {
-  background-color: white;
+  background-color: #cbcbcb;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -14386,6 +14386,7 @@ button.vp-unmute-button span.vp-unmute-button-title {
   position: absolute;
   bottom: 0;
   width: 100%;
+  background-color: #cbcbcb;
   -webkit-animation: flip-bottom 250ms ease-out 250ms;
   animation: flip-bottom 250ms ease-out 250ms;
   -webkit-transform-origin: top;
@@ -14527,11 +14528,19 @@ button.vp-unmute-button span.vp-unmute-button-title {
  }
 }
 
+
 /* ================================ blackdays special ===================================  */
 .SectionHeader .black-title .Icon {
-  width: 80%;
-  height: 80%;
+  width: 90%;
+  height: 90%;
   margin-bottom: 20px;
+}
+@media screen and (min-width: 560px){
+  .SectionHeader .black-title .Icon {
+    width: 50%;
+    height: 50%;
+    margin-bottom: 20px;
+  }
 }
 .ProductItem__Wrapper .days__badge--cyber,
 .ProductItem__Wrapper .days__badge--black{
@@ -14565,7 +14574,6 @@ button.vp-unmute-button span.vp-unmute-button-title {
   border-radius: 50%;
   text-align: center;
   text-transform: uppercase;
-  z-index:1;
 }
 @media screen and (min-width: 560px){
   .ProductMeta .days__badge--save--blackdays,
@@ -14695,7 +14703,7 @@ line-height: 1;
 }
 /*------------ Drawer totals ------- */
 .Drawer__totals{
-  margin-top: -10px;
+  margin-top: -8px;
   border-bottom: 1px solid rgba(122,122,122,0.3);
   padding-bottom: 8px;
 }
@@ -14708,14 +14716,16 @@ line-height: 1;
 .Drawer__totals strong,
 .Drawer__totals .Drawer__subtotal .text__price,
 .Drawer__totals .Drawer__savings .text__price{
-  font-family: var(--heading-font-family);
-  font-size: 1rem;
+  font-family: inherit;
+  font-size: calc(var(--base-text-font-size) - (var(--default-text-font-size) - 11px));
   font-weight: 900;
-  line-height: 1.2;
+  text-transform: uppercase;
+  line-height: 1.4;
+  letter-spacing: 0.05em;
 }
 
 .Drawer__totals .Drawer__savings {
   color: var(--button-background);
 }
+.make-white{color:white !important}
 #shopify-block-45655725559757980{display:none}
-

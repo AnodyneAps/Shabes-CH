@@ -10,8 +10,8 @@
             "show_sku": false,
             "show_product_rating": false,
             "show_taxes_included": false,
-            "show_meta-days": true,
-            "selector_meta-days": "cyberdays",
+            "show_meta-days": false,
+            "selector_meta-days": "none",
             "blackdays__meta-save": "30%"
           }
         },

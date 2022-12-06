@@ -83,12 +83,12 @@
           "enable_bar_one": false,
           "content": "HIER KLICKEN, um einen Code zu erhalten",
           "link": "https:\/\/shabes.ch\/pages\/rabatt-code",
-          "fadein_one": "Sie Sparen 30% auf alles",
-          "icon_selector1": "heart",
-          "fadein_two": "Billiger geht's nicht",
+          "fadein_one": "Gratis Versand",
+          "icon_selector1": "package",
+          "fadein_two": "EINFACHE UND SICHERE BEZAHLUNG",
           "icon_selector2": "cards",
-          "fadein_three": "Gratis Versand",
-          "icon_selector3": "package",
+          "fadein_three": "GRATIS RÜCKGABERECHT",
+          "icon_selector3": "heart",
           "fadein_four": "Rückgaberecht bis zum 9. Januar 2023",
           "icon_selector4": "shipping"
         }
