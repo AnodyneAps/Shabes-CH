@@ -34,7 +34,7 @@
         "f4cce94d-6434-4928-a9a9-d142eb3b4702": {
           "type": "product_usp",
           "settings": {
-            "blackdays__returndate": "<p>Sie können sicher Weihnachtsgeschenke kaufen - Wir verlängern das Rückgaberecht bis zum <strong>9. Januar 2023<\/strong><\/p>",
+            "blackdays__returndate": "<p><strong>14 Tage Rückgaberecht:<\/strong> Testen Sie unsere Produkte in aller Ruhe während 14 Tagen<\/p>",
             "usp_autoplay": true,
             "usp_cycle_speed": 3,
             "icon_selector1": "package",

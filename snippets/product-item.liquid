@@ -80,13 +80,9 @@
       {% endif %}
 
       {% if section.settings.show_product-days == true %}
-        {%- if section.settings.selector_product-days != 'none' -%}
-        <span class="days__badge--{{ section.settings.selector_product-days }}">
-          {{ section.settings.selector_product-days }}
-        </span>{%- endif -%}
         {% if section.settings.blackdays__save != blank %}
           {%- if section.settings.selector_product-days != 'none' -%}
-          <span class="days__badge--save--{{ section.settings.selector_product-days }}">{{ section.settings.blackdays__save }}</span>
+          <span class="days__badge--save--black">{{ section.settings.blackdays__save }}</span>
         {%- endif -%}
         {% endif %}
       {% endif %}
