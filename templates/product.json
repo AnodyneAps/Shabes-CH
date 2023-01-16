@@ -34,6 +34,8 @@
         "f4cce94d-6434-4928-a9a9-d142eb3b4702": {
           "type": "product_usp",
           "settings": {
+            "product_counter_text": "<p>Wir verpacken Ihre Bestellung in:<\/p>",
+            "show_product_counter": true,
             "blackdays__returndate": "<p><strong>14 Tage Rückgaberecht:<\/strong> Testen Sie unsere Produkte in aller Ruhe während 14 Tagen<\/p>",
             "usp_autoplay": true,
             "usp_cycle_speed": 3,

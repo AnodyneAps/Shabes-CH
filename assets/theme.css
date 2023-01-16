@@ -14598,6 +14598,7 @@ button.vp-unmute-button span.vp-unmute-button-title {
   border-radius: 50%;
   text-align: center;
   text-transform: uppercase;
+  z-index: 9;
 }
 @media screen and (min-width: 560px){
   .ProductMeta .days__badge--save--blackdays,

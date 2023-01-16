@@ -7,7 +7,7 @@
 {%- capture section_settings -%}
   {
   "enableHistoryState": true,
-        "templateSuffix": {{ product.template_suffix | json }},
+          "templateSuffix": {{ product.template_suffix | json }},
   "showInventoryQuantity":
   {% if inventory_block != blank %}true{% else %}false{% endif %},
   "showSku": {{ meta_block.settings.show_sku | json }},
@@ -26,14 +26,14 @@
 {%- capture flickity_options -%}
   {
   "prevNextButtons": true,
-        "pageDots": false,
-        "draggable": true,
-        "contain": true,
-        "adaptiveHeight": true,
-        "pauseAutoPlayOnHove": false,
-        "cellAlign": "left",
-        "arrowShape": {"x0": 20, "x1": 60, "y1": 40, "x2": 60, "y2": 35, "x3": 25}
-      }{%- endcapture -%}
+          "pageDots": false,
+          "draggable": true,
+          "contain": true,
+          "adaptiveHeight": true,
+          "pauseAutoPlayOnHove": false,
+          "cellAlign": "left",
+          "arrowShape": {"x0": 20, "x1": 60, "y1": 40, "x2": 60, "y2": 35, "x3": 25}
+        }{%- endcapture -%}
 
 <script>
   // To power the recently viewed products section, we save the ID of the product inside the local storage
@@ -72,27 +72,6 @@
     {%- endif -%}
   </a>
 </div>
-
-{% if blackdays == 'blackdays' %}
-  <div class="blackdays__banner">
-    {% render 'icon' with 'blackdays' %}<span class="text">Sparen Sie
-      <span class="p">30%</span>
-      auf alles</span>
-  </div>
-{% elsif blackdays == 'blackfriday' %}
-  <div class="blackdays__banner">
-    {% render 'icon' with 'blackfriday' %}<span class="text">spar
-      <span class="p">30%</span>
-      på alt</span>
-  </div>
-{% elsif blackdays == 'cyberdays' %}
-  <div class="cyberdays__banner">
-    {% render 'icon' with 'cyberdays' %}<span class="text">Sparen Sie
-      <span class="p">30%</span>
-      auf alles</span>
-  </div>
-{% endif %}
-
 <section
   class="Product"
   data-section-id="{{ section.id }}"
@@ -593,7 +572,8 @@ PHOTO SWIPE
 This is the root container for the zoom functionality. Must not be removed, as order element is important.
 --------------------------------------------------------------------------------------------------------------------
 {%- endcomment -%}{%- if section.settings.enable_image_zoom -%}
-  <div class="pswp"
+  <div
+    class="pswp"
     tabindex="-1"
     role="dialog"
     aria-hidden="true">
